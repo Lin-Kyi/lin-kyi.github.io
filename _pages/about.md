@@ -12,7 +12,7 @@ Hello there! My name is Lin, and I am currently a first-year PhD student at the 
 
 My research focus is on end user privacy in data-driven systems. My research methods and interests are interdisciplinary, as I seek to understand aspects of privacy and machine learning from a human-centric perspective. I combine my knowledge of HCI, psychology, and quantitative/qualitative methods to investigate research questions.
 
-Outside of direct research, I am also interested in academic outreach, specifically in expanding our ideas of what "computer science" research entails. If you are from the social sciences and interested in pivoting to computer science, please feel free to reach out to me and I'd be happy to offer some advice!
+Outside of direct research, I am also interested in academic outreach, specifically in expanding our ideas of what "computer science" research entails. If you are from the social sciences and interested in pivoting to computer science, please feel free to reach out to me and I'd be happy to chat!
 
 ### Education
 * September 2021 - Present: **PhD in Computer Science** at the *Max Planck Institute for Security and Privacy* (Bochum, Germany)
