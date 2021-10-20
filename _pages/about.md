@@ -23,7 +23,7 @@ Outside of direct research, I am also interested in academic outreach, specifica
    - Thesis: *End User Mental Models of Social Engineering Attacks*
 * 2015 - 2019: **BA (Honours) in Psychology** at *Queen's University* (Kingston, Canada)
 
-### Work Experience
+### Relevant Work Experience
 * 2019 - 2021: Graduate Research Assistant, *Carleton University*
 * 2019 - 2021: Teaching Assistant, *Carleton University* (see [below](###Teaching Assistantships))
 * May - August 2020: UX Research Intern, *Immigration, Refugees, and Citizenship Canada (IRCC)*, Ottawa, Canada
