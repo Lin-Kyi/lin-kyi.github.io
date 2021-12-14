@@ -16,10 +16,10 @@ Outside of direct research, I am also interested in academic outreach, specifica
 
 ### Education
 * September 2021 - Present: **PhD in Computer Science** at the *Max Planck Institute for Security and Privacy* (Bochum, Germany)
-   - Supervisor: [A. Biega](https://asiabiega.github.io/)
+   - Supervisor: [Asia Biega](https://asiabiega.github.io/)
    - My degree will be conferred by Ruhr-University Bochum
 * 2019 - 2021: **MA in Human-Computer Interaction** at *Carleton University* (Ottawa, Canada)
-   - Supervisors: [E. Stobert](https://www.stobert.ca/) and [R. Biddle](https://carleton.ca/scs/people/robert-biddle/)
+   - Supervisors: [Elizabeth Stobert](https://www.stobert.ca/) and [Robert Biddle](https://carleton.ca/scs/people/robert-biddle/)
    - Awarded an NSERC CREATE Collaborative Learning of Usability Experiences (CLUE) grant
    - Thesis: *End User Mental Models of Social Engineering Attacks*
 * 2015 - 2019: **BA (Honours) in Psychology** at *Queen's University* (Kingston, Canada)
