@@ -31,7 +31,7 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * January - April 2019: UX Design Intern, *JIC Design*, Kingston, Canada
 
 ### Publications
-* "End User Mental Models of Social Engineering Attacks" L. Kyi (pending conference publication, with E. Stobert), 2021
+* ["End User Mental Models of Social Engineering Attacks"](https://curve.carleton.ca/system/files/etd/2b0397df-0447-481a-bedb-3cdfed153cd3/etd_pdf/20586d0098ccea7701d7ce1fe928acd5/kyi-endusermentalmodelsofsocialengineeringattacks.pdf) L. Kyi (pending conference publication, with E. Stobert), 2021
 * ["Individual Differences and Perceived Password Security Management"](https://wayworkshop.org/2020/papers/way2020-kyi.pdf) L. Kyi, S. Chiasson, and E. Stobert at the *Who Are You?! Adventures in Authentication (WAY) Workshop*, 2020
 
 ### Teaching Assistantships
