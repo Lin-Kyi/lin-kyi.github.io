@@ -21,7 +21,7 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * 2019 - 2021: **MA in Human-Computer Interaction** at *Carleton University* (Ottawa, Canada)
    - Supervisors: [Elizabeth Stobert](https://www.stobert.ca/) and [Robert Biddle](https://carleton.ca/scs/people/robert-biddle/)
    - Awarded an NSERC CREATE Collaborative Learning of Usability Experiences (CLUE) grant
-   - Thesis: *["End User Mental Models of Social Engineering Attacks"]*(https://curve.carleton.ca/system/files/etd/2b0397df-0447-481a-bedb-3cdfed153cd3/etd_pdf/20586d0098ccea7701d7ce1fe928acd5/kyi-endusermentalmodelsofsocialengineeringattacks.pdf) L. Kyi (pending conference publication, with E. Stobert)
+   - Thesis: *["End User Mental Models of Social Engineering Attacks"](https://curve.carleton.ca/system/files/etd/2b0397df-0447-481a-bedb-3cdfed153cd3/etd_pdf/20586d0098ccea7701d7ce1fe928acd5/kyi-endusermentalmodelsofsocialengineeringattacks.pdf) L. Kyi (pending conference publication, with E. Stobert)
 * 2015 - 2019: **BA (Honours) in Psychology** at *Queen's University* (Kingston, Canada)
 
 ### Relevant Work Experience
