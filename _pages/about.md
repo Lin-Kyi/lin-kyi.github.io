@@ -28,12 +28,13 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * 2019 - 2021: NSERC CREATE grant
 
 ### Publications
-* "End User Mental Models of Social Engineering Attacks", 2021 (pending conference publication)
+<!-- * "End User Mental Models of Social Engineering Attacks", 2021 (pending conference publication) -->
 * ["Individual Differences and Perceived Password Security Management"](https://wayworkshop.org/2020/papers/way2020-kyi.pdf) L. Kyi, S. Chiasson, and E. Stobert at the *Who Are You?! Adventures in Authentication (WAY) Workshop*, 2020
 
-<!-- 
+
 ### Presentations 
-* July 2022: UC Berkeley Centre for Long-Term Cybersecurity Symposium (Berkeley, California) -->
+* April 2020: "Personality and Password Management", CRA-W Grad Cohort for Women Workshop (New Orleans, USA) * this event was unfortunately cancelled due to COVID-19 *
+<!-- * July 2022: UC Berkeley Centre for Long-Term Cybersecurity Symposium (Berkeley, California)  -->
 
 ### Relevant Work Experience
 * 2019 - 2021: Graduate Research Assistant, *Carleton University*
