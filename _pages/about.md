@@ -34,7 +34,7 @@ Outside of direct research, I am also interested in academic outreach, specifica
 
 ### Presentations 
 * April 2020: "Personality and Password Management", *CRA-W Grad Cohort for Women Workshop*, New Orleans, USA 
-  * this event was unfortunately cancelled due to COVID-19 *
+*this event was unfortunately cancelled due to COVID-19*
 <!-- * July 2022: UC Berkeley Centre for Long-Term Cybersecurity Symposium (Berkeley, California)  -->
 
 ### Relevant Work Experience
