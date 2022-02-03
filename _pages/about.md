@@ -33,7 +33,8 @@ Outside of direct research, I am also interested in academic outreach, specifica
 
 
 ### Presentations 
-* April 2020: "Personality and Password Management", CRA-W Grad Cohort for Women Workshop (New Orleans, USA) * this event was unfortunately cancelled due to COVID-19 *
+* April 2020: "Personality and Password Management", *CRA-W Grad Cohort for Women Workshop*, New Orleans, USA 
+  * this event was unfortunately cancelled due to COVID-19 *
 <!-- * July 2022: UC Berkeley Centre for Long-Term Cybersecurity Symposium (Berkeley, California)  -->
 
 ### Relevant Work Experience
@@ -41,7 +42,6 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * 2019 - 2021: Teaching Assistant, *Carleton University* (see [below](###Teaching Assistantships))
 * May - August 2020: UX Research Intern, *Immigration, Refugees, and Citizenship Canada (IRCC)*, Ottawa, Canada
 * January - April 2019: UX Design Intern, *JIC Design*, Kingston, Canada
-
 
 ### Teaching Assistantships
 * Introduction to Human-Computer Interaction (COMP 3008), *Carleton University*, Winter 2021
