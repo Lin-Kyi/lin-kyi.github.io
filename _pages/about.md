@@ -24,15 +24,16 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * 2015 - 2019: **BA (Honours) in Psychology** at *Queen's University* (Kingston, Canada)
 
 ### External Funding
-* 2022: UC Berkeley Centre for Long-Term Cybersecurity 
-* 2019 - 2021: NSERC CREATE Collaborate Learning in Usability Experiences 
+<!-- * 2022: UC Berkeley Centre for Long-Term Cybersecurity  -->
+* 2019 - 2021: NSERC CREATE grant
 
 ### Publications
 * "End User Mental Models of Social Engineering Attacks", 2021 (pending conference publication)
 * ["Individual Differences and Perceived Password Security Management"](https://wayworkshop.org/2020/papers/way2020-kyi.pdf) L. Kyi, S. Chiasson, and E. Stobert at the *Who Are You?! Adventures in Authentication (WAY) Workshop*, 2020
 
-### Presentations and Talks
-* July 2022: "Investigating How GDPR’s Legitimate Interest is Used and (Mis)Understood in Practice" at the UC Berkeley Centre for Long-Term Cybersecurity Symposium
+<!-- 
+### Presentations 
+* July 2022: UC Berkeley Centre for Long-Term Cybersecurity Symposium (Berkeley, California) -->
 
 ### Relevant Work Experience
 * 2019 - 2021: Graduate Research Assistant, *Carleton University*
