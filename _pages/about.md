@@ -24,7 +24,7 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * 2015 - 2019: **BA (Honours) in Psychology** at *Queen's University* (Kingston, Canada)
 
 ### External Funding
-<!-- * 2022: UC Berkeley Centre for Long-Term Cybersecurity funding  -->
+* 2022: UC Berkeley Centre for Long-Term Cybersecurity funding 
 * 2019 - 2021: NSERC CREATE grant
 
 ### Publications
