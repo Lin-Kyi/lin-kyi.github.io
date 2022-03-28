@@ -24,7 +24,7 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * 2015 - 2019: **BA (Honours) in Psychology** at *Queen's University* (Kingston, Canada)
 
 ### External Funding
-<!-- * 2022: UC Berkeley Centre for Long-Term Cybersecurity  -->
+<!-- * 2022: UC Berkeley Centre for Long-Term Cybersecurity funding  -->
 * 2019 - 2021: NSERC CREATE grant
 
 ### Publications
@@ -33,9 +33,9 @@ Outside of direct research, I am also interested in academic outreach, specifica
 
 
 ### Presentations 
+* July 2022: "Investigating How GDPR’s Legitimate Interest is Used and (Mis)Understood in Practice", *UC Berkeley Center for Long-Term Cybersecurity Symposium*, Berkeley, USA
 * April 2020: "Personality and Password Management", *CRA-W Grad Cohort for Women Workshop*, New Orleans, USA <br/>
 (this event was unfortunately cancelled due to COVID-19)
-<!-- * July 2022: UC Berkeley Centre for Long-Term Cybersecurity Symposium (Berkeley, California)  -->
 
 ### Relevant Work Experience
 * 2019 - 2021: Graduate Research Assistant, *Carleton University*
