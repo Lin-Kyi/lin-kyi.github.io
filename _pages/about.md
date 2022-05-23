@@ -10,7 +10,7 @@ redirect_from:
 
 Hello there! My name is Lin, and I am currently a first-year PhD student at the Max Planck Institute for Security and Privacy (MPI-SP) under the supervision of [Dr. Asia Biega](https://asiabiega.github.io/).
 
-My research focus is on data protection and data ethics, with a special focus on consent under the GDPR. I combine my knowledge of HCI, psychology, and quantitative + qualitative methods to investigate research questions, and engage in interdisciplinary collaborations.
+My research focus is on data ethics and dark patterns, with a special focus on consent under the GDPR. I combine my knowledge of HCI, psychology, and quantitative + qualitative methods to investigate research questions, and engage in interdisciplinary collaborations.
 
 Outside of direct research, I am also interested in academic outreach, specifically in expanding our ideas of what "computer science" research entails. If you are from the social sciences and interested in pivoting to computer science, please feel free to reach out to me and I'd be happy to chat!
 
@@ -31,9 +31,9 @@ Outside of direct research, I am also interested in academic outreach, specifica
 <!-- * "End User Mental Models of Social Engineering Attacks", 2021 (pending conference publication) -->
 * ["Individual Differences and Perceived Password Security Management"](https://wayworkshop.org/2020/papers/way2020-kyi.pdf) L. Kyi, S. Chiasson, and E. Stobert at the *Who Are You?! Adventures in Authentication (WAY) Workshop*, 2020
 
-
 ### Presentations 
 * July 2022: "Investigating How GDPR’s Legitimate Interest is Used and (Mis)Understood in Practice", *UC Berkeley Center for Long-Term Cybersecurity Symposium*, Berkeley, USA
+* May 2022: "Elaborate Dark Patterns After Privacy Regulations", *Max Planck Law-Tech Symposium*, Online
 * April 2020: "Personality and Password Management", *CRA-W Grad Cohort for Women Workshop*, New Orleans, USA <br/>
 (this event was unfortunately cancelled due to COVID-19)
 
