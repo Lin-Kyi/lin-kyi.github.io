@@ -49,4 +49,5 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * Introduction to Cognitive Psychology (PSYC 2700), *Carleton University*, Fall 2019/Winter 2020
 
 ### Service
+* Student Volunteer, FAccT Conference, 2022
 * Volunteer, Who Are You?! Adventures in Authentication Workshop, 2021
