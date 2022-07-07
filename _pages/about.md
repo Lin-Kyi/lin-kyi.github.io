@@ -48,6 +48,6 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * Technical Writing for Computer Science (COMP 3301), *Carleton University*, Fall 2020
 * Introduction to Cognitive Psychology (PSYC 2700), *Carleton University*, Fall 2019/Winter 2020
 
-### Service
+### Volunteering
 * Student Volunteer, FAccT Conference, 2022
 * Volunteer, Who Are You?! Adventures in Authentication Workshop, 2021
