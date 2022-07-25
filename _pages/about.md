@@ -24,7 +24,7 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * 2015 - 2019: **BA (Honours) in Psychology** at *Queen's University* (Kingston, Canada)
 
 ### External Funding
-* 2022: UC Berkeley Centre for Long-Term Cybersecurity research funding 
+<!-- * 2022: UC Berkeley Centre for Long-Term Cybersecurity research funding  -->
 * 2019 - 2021: NSERC CREATE grant
 
 ### Minor Publications
@@ -49,5 +49,6 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * Introduction to Cognitive Psychology (PSYC 2700), *Carleton University*, Fall 2019/Winter 2020
 
 ### Volunteering
+* Co-organizer, Spark(l)ing Science at MPI-SP (a bi-weekly series of research lectures and discussion in a casual environment at our institute)
 * Student Volunteer, FAccT Conference, 2022
 * Volunteer, Who Are You?! Adventures in Authentication Workshop, 2021
