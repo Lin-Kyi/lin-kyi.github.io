@@ -21,18 +21,19 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * 2019 - 2021: **MA in Human-Computer Interaction** at *Carleton University* (Ottawa, Canada)
    - Supervisors: [Elizabeth Stobert](https://www.stobert.ca/) and [Robert Biddle](https://carleton.ca/scs/people/robert-biddle/)
    - Thesis: ["End User Mental Models of Social Engineering Attacks"](https://curve.carleton.ca/system/files/etd/2b0397df-0447-481a-bedb-3cdfed153cd3/etd_pdf/20586d0098ccea7701d7ce1fe928acd5/kyi-endusermentalmodelsofsocialengineeringattacks.pdf) 
+   - During my Master's, I was funded by an NSERC CREATE grant
 * 2015 - 2019: **BA (Honours) in Psychology** at *Queen's University* (Kingston, Canada)
 
-### External Funding
+<!-- ### External Funding
 <!-- * 2022: UC Berkeley Centre for Long-Term Cybersecurity research funding  -->
-* 2019 - 2021: NSERC CREATE grant
+* 2019 - 2021: NSERC CREATE grant -->
 
 ### Minor Publications
 <!-- * "End User Mental Models of Social Engineering Attacks", 2021 (pending conference publication) -->
 * ["Individual Differences and Perceived Password Security Management"](https://wayworkshop.org/2020/papers/way2020-kyi.pdf) L. Kyi, S. Chiasson, and E. Stobert at the *Who Are You?! Adventures in Authentication (WAY) Workshop*, 2020
 
 ### Presentations 
-* July 2022: "Investigating How GDPR’s Legitimate Interest is Used and (Mis)Understood in Practice", *UC Berkeley Center for Long-Term Cybersecurity Symposium*, Berkeley, USA
+* July 2022: "Dark Patterns in GDPR's Legitimate Interest", *UC Berkeley Center for Long-Term Cybersecurity Symposium*, Berkeley, USA
 * May 2022: "Elaborate Dark Patterns After Privacy Regulations", *Max Planck Law-Tech Symposium*, Online
 * April 2020: "Personality and Password Management", *CRA-W Grad Cohort for Women Workshop*, New Orleans, USA <br/>
 (this event was unfortunately cancelled due to COVID-19)
