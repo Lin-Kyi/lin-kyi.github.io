@@ -29,9 +29,9 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * 2019 - 2021: NSERC CREATE grant
 
 ### Publications
-* "Investigating Deceptive Design in GDPR's Legitimate Interest"[pre-print]([https://drive.google.com/file/d/1g3PlfBVDR6iN_39uirWw0XZnZnnyMM4o/view?usp=sharing] **Lin Kyi**, Sushil Ammanaghatta Shivakumar, Franziska Roesner, Cristiana Santos, Frederike Zufall, and Asia Biega in submission to the *CHI Human Factors in Computing Conference*, 2023
-* "'I don’t really give them piece of mind': User Perceptions of Social Engineering Attacks"[pre-print](https://drive.google.com/file/d/1g3PlfBVDR6iN_39uirWw0XZnZnnyMM4o/view?usp=sharing) **Lin Kyi**, and Elizabeth Stobert in submission to the *APWG eCrime Symposium on Electronic Crime Research*, 2023
-* ["Individual Differences and Perceived Password Security Management"](https://wayworkshop.org/2020/papers/way2020-kyi.pdf) **Lin Kyi**, Sonia Chiasson, and Elizabeth Stobert at the *Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS)*, 2020
+* "Investigating Deceptive Design in GDPR's Legitimate Interest" [pre-print]([https://drive.google.com/file/d/1g3PlfBVDR6iN_39uirWw0XZnZnnyMM4o/view?usp=sharing) **Lin Kyi**, Sushil Ammanaghatta Shivakumar, Franziska Roesner, Cristiana Santos, Frederike Zufall, and Asia Biega in submission to the *CHI Human Factors in Computing Systems Conference*, 2023
+* "'I don’t really give them piece of mind': User Perceptions of Social Engineering Attacks" [pre-print](https://drive.google.com/file/d/1g3PlfBVDR6iN_39uirWw0XZnZnnyMM4o/view?usp=sharing) **Lin Kyi**, and Elizabeth Stobert in submission to the *APWG eCrime Symposium on Electronic Crime Research*, 2023
+* "Individual Differences and Perceived Password Security Management"[PDF](https://wayworkshop.org/2020/papers/way2020-kyi.pdf) **Lin Kyi**, Sonia Chiasson, and Elizabeth Stobert at the *Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS)*, 2020
 
 ### Presentations 
 * July 2022: "Dark Patterns in GDPR's Legitimate Interest", *UC Berkeley Center for Long-Term Cybersecurity Symposium*, Berkeley, United States
@@ -51,6 +51,6 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * Introduction to Cognitive Psychology (PSYC 2700), *Carleton University*, Fall 2019/Winter 2020
 
 ### Volunteering
-* Co-organizer, Spark(l)ing Science at MPI-SP (a bi-weekly series of research lectures and discussion in a casual environment at our institute)
+* Co-organizer, Spark(l)ing Science at MPI-SP (a bi-weekly series of research lectures and discussion in a casual environment at our institute), 2022 - Present
 * Student Volunteer, FAccT Conference, 2022
 * Student Volunteer, Who Are You?! Adventures in Authentication Workshop, 2021
