@@ -25,7 +25,7 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * 2015 - 2019: **BA (Honours) in Psychology** at *Queen's University* (Kingston, Canada)
 
 ### Publications
-* "Investigating Deceptive Design in GDPR's Legitimate Interest" [[pre-print]](https://drive.google.com/file/d/1g3PlfBVDR6iN_39uirWw0XZnZnnyMM4o/view?usp=sharing) **Lin Kyi**, Sushil Ammanaghatta Shivakumar, Franziska Roesner, Cristiana Santos, Frederike Zufall, and Asia Biega in submission to the *CHI Human Factors in Computing Systems Conference*, 2023
+* "Investigating Deceptive Design in GDPR's Legitimate Interest" [[pre-print]](https://drive.google.com/file/d/15mgXTXGcv2UO2tKufcVIM5xfI8me4lLj/view?usp=sharing) **Lin Kyi**, Sushil Ammanaghatta Shivakumar, Franziska Roesner, Cristiana Santos, Frederike Zufall, and Asia Biega in submission to the *CHI Human Factors in Computing Systems Conference*, 2023
 * "'I don’t really give them piece of mind': User Perceptions of Social Engineering Attacks" [[pre-print]](https://drive.google.com/file/d/1g3PlfBVDR6iN_39uirWw0XZnZnnyMM4o/view?usp=sharing) **Lin Kyi**, and Elizabeth Stobert in submission to the *APWG eCrime Symposium on Electronic Crime Research*, 2023
 * "Individual Differences and Perceived Password Security Management" [[PDF]](https://wayworkshop.org/2020/papers/way2020-kyi.pdf) **Lin Kyi**, Sonia Chiasson, and Elizabeth Stobert at the *Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS)*, 2020
 
