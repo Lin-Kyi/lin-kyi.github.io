@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! My name is Lin, and I am currently a first-year PhD student at the Max Planck Institute for Security and Privacy (MPI-SP) under the supervision of [Dr. Asia Biega](https://asiabiega.github.io/).
+Hello there! My name is Lin, and I am currently a second-year PhD student at the Max Planck Institute for Security and Privacy (MPI-SP) under the supervision of [Dr. Asia Biega](https://asiabiega.github.io/).
 
-My research focus is on data ethics and deceptive design, with a special focus on consent under the GDPR. I combine my knowledge of HCI, psychology, and quantitative + qualitative methods to investigate research questions, and engage in interdisciplinary collaborations.
+My research focus is on data governance and deceptive design, with a special focus on consent under the GDPR. I combine my knowledge of HCI, psychology, and quantitative + qualitative methods to investigate research questions, and engage in interdisciplinary collaborations.
 
 Outside of direct research, I am also interested in academic outreach, specifically in expanding our ideas of what "computer science" research entails. If you are from the social sciences and interested in pivoting to computer science, please feel free to reach out to me and I'd be happy to chat!
 
@@ -20,24 +20,24 @@ Outside of direct research, I am also interested in academic outreach, specifica
    - My degree will be conferred by Ruhr-University Bochum
 * 2019 - 2021: **MA in Human-Computer Interaction** at *Carleton University* (Ottawa, Canada)
    - Supervisor: Elizabeth Stobert
-   - Thesis: "End User Mental Models of Social Engineering Attacks" [PDF](https://curve.carleton.ca/system/files/etd/2b0397df-0447-481a-bedb-3cdfed153cd3/etd_pdf/20586d0098ccea7701d7ce1fe928acd5/kyi-endusermentalmodelsofsocialengineeringattacks.pdf) 
-   - During my Master's, I was additionally funded by an NSERC CREATE grant
+   - Thesis: "End User Mental Models of Social Engineering Attacks" [[PDF]](https://curve.carleton.ca/system/files/etd/2b0397df-0447-481a-bedb-3cdfed153cd3/etd_pdf/20586d0098ccea7701d7ce1fe928acd5/kyi-endusermentalmodelsofsocialengineeringattacks.pdf) 
+   - During my Master's, I was also funded by an NSERC CREATE grant
 * 2015 - 2019: **BA (Honours) in Psychology** at *Queen's University* (Kingston, Canada)
 
-### External Funding
-* 2022: UC Berkeley Centre for Long-Term Cybersecurity research and travel funding
-* 2019 - 2021: NSERC CREATE grant
-
 ### Publications
-* "Investigating Deceptive Design in GDPR's Legitimate Interest" [pre-print](https://drive.google.com/file/d/1g3PlfBVDR6iN_39uirWw0XZnZnnyMM4o/view?usp=sharing) **Lin Kyi**, Sushil Ammanaghatta Shivakumar, Franziska Roesner, Cristiana Santos, Frederike Zufall, and Asia Biega in submission to the *CHI Human Factors in Computing Systems Conference*, 2023
-* "'I don’t really give them piece of mind': User Perceptions of Social Engineering Attacks" [pre-print](https://drive.google.com/file/d/1g3PlfBVDR6iN_39uirWw0XZnZnnyMM4o/view?usp=sharing) **Lin Kyi**, and Elizabeth Stobert in submission to the *APWG eCrime Symposium on Electronic Crime Research*, 2023
-* "Individual Differences and Perceived Password Security Management"[PDF](https://wayworkshop.org/2020/papers/way2020-kyi.pdf) **Lin Kyi**, Sonia Chiasson, and Elizabeth Stobert at the *Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS)*, 2020
+* "Investigating Deceptive Design in GDPR's Legitimate Interest" [[pre-print]](https://drive.google.com/file/d/1g3PlfBVDR6iN_39uirWw0XZnZnnyMM4o/view?usp=sharing) **Lin Kyi**, Sushil Ammanaghatta Shivakumar, Franziska Roesner, Cristiana Santos, Frederike Zufall, and Asia Biega in submission to the *CHI Human Factors in Computing Systems Conference*, 2023
+* "'I don’t really give them piece of mind': User Perceptions of Social Engineering Attacks" [[pre-print]](https://drive.google.com/file/d/1g3PlfBVDR6iN_39uirWw0XZnZnnyMM4o/view?usp=sharing) **Lin Kyi**, and Elizabeth Stobert in submission to the *APWG eCrime Symposium on Electronic Crime Research*, 2023
+* "Individual Differences and Perceived Password Security Management" [[PDF]](https://wayworkshop.org/2020/papers/way2020-kyi.pdf) **Lin Kyi**, Sonia Chiasson, and Elizabeth Stobert at the *Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS)*, 2020
 
 ### Presentations 
 * July 2022: "Dark Patterns in GDPR's Legitimate Interest", *UC Berkeley Center for Long-Term Cybersecurity Symposium*, Berkeley, United States
 * May 2022: "Elaborate Dark Patterns After Privacy Regulations", *Max Planck Law-Tech Symposium*, Online
 * April 2020: "Personality and Password Management", *CRA-W Grad Cohort for Women Workshop*, New Orleans, United States <br/>
 (this event was unfortunately cancelled due to COVID-19)
+
+### External Funding
+* 2022: UC Berkeley Centre for Long-Term Cybersecurity research and travel funding
+* 2019 - 2021: NSERC CREATE grant
 
 ### Relevant Work Experience
 * 2019 - 2021: Graduate Research Assistant, *Carleton University*
