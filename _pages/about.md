@@ -30,9 +30,9 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * "Individual Differences and Perceived Password Security Management" [[PDF]](https://wayworkshop.org/2020/papers/way2020-kyi.pdf) **Lin Kyi**, Sonia Chiasson, and Elizabeth Stobert at the *Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS)*, 2020.
 
 ### Presentations 
-* July 2022: "Dark Patterns in GDPR's Legitimate Interest", *UC Berkeley Center for Long-Term Cybersecurity Symposium*, Berkeley, United States
-* May 2022: "Elaborate Dark Patterns After Privacy Regulations", *Max Planck Law-Tech Symposium*, Online
-* April 2020: "Personality and Password Management", *CRA-W Grad Cohort for Women Workshop*, New Orleans, United States <br/>
+* Dark Patterns in GDPR's Legitimate Interest, *UC Berkeley Center for Long-Term Cybersecurity Symposium*, Berkeley, United States, July 2022.
+* Elaborate Dark Patterns After Privacy Regulations, *Max Planck Law-Tech Symposium*, Online, May 2022.
+* Poster: Personality and Password Management, *CRA-W Grad Cohort for Women Workshop*, New Orleans, United States, April 2020. <br/>
 (this event was unfortunately cancelled due to COVID-19)
 
 ### External Funding
