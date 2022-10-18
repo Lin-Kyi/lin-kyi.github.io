@@ -54,3 +54,8 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * Co-organizer, Spark(l)ing Science at MPI-SP (a bi-weekly series of research lectures and discussion in a casual environment at our institute), 2022 - Present
 * Student Volunteer, FAccT Conference, 2022
 * Student Volunteer, Who Are You?! Adventures in Authentication Workshop, 2021
+
+### Personal
+In my free time, I enjoy hiking, reading, watercolour painting, and dabble in different crafts (knitting, bookbinding, sewing, scrapbooking). 
+
+I also enjoy travelling, and am fortunate to be living in Germany for the duration of my PhD, where I have been able to go on various trips within Europe :) In the first year of my PhD, I went to 3 continents, or 11 countries (12 if you count Vatican City) for both work and fun: Canada, Germany, France, England, Scotland, Austria, Belgium, UAE, South Korea, United States, and Italy.
