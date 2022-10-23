@@ -47,30 +47,22 @@ Outside of direct research, I am also interested in academic outreach, specifica
 
 ### External Funding
 * 2022: UC Berkeley Centre for Long-Term Cybersecurity research and travel funding
-
 * 2019 - 2021: NSERC CREATE grant
 
 ### Relevant Work Experience
 * 2019 - 2021: Graduate Research Assistant, *Carleton University*
-
 * 2019 - 2021: Teaching Assistant, *Carleton University* (see [below](###Teaching Assistantships))
-
 * May - August 2020: UX Research Intern, *Immigration, Refugees, and Citizenship Canada (IRCC)*, Ottawa, Canada
-
 * January - April 2019: UX Design Intern, *JIC Design*, Kingston, Canada
 
 ### Teaching Assistantships
 * Introduction to Human-Computer Interaction (COMP 3008), *Carleton University*, Winter 2021
-
 * Technical Writing for Computer Science (COMP 3301), *Carleton University*, Fall 2020
-
 * Introduction to Cognitive Psychology (PSYC 2700), *Carleton University*, Fall 2019/Winter 2020
 
 ### Volunteering
 * Co-organizer, Spark(l)ing Science at MPI-SP (a bi-weekly series of research lectures and discussion in a casual environment at our institute), 2022 - Present
-
 * Student Volunteer, FAccT Conference, 2022
-
 * Student Volunteer, Who Are You?! Adventures in Authentication Workshop, 2021
 
 ### Personal
