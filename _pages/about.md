@@ -66,6 +66,6 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * Student Volunteer, Who Are You?! Adventures in Authentication Workshop, 2021
 
 ### Personal
-In my free time, I enjoy hiking, watercolour painting, [painting on hikes](https://en.wikipedia.org/wiki/En_plein_air), playing the [ocarina](https://en.wikipedia.org/wiki/Ocarina), and dabble in various crafts such as knitting, bookbinding, sewing, scrapbooking. 
+In my free time, I enjoy hiking, watercolour painting, [painting on hikes](https://en.wikipedia.org/wiki/En_plein_air), playing the [ocarina](https://en.wikipedia.org/wiki/Ocarina), and dabble in various crafts such as knitting, bookbinding, sewing, and scrapbooking. 
 
 I also enjoy travelling, and am fortunate to be living in Germany for the duration of my PhD, where I have been able to go on various trips within Europe :) In the first year of my PhD, I went to 3 continents, or 11 countries (12 if you count Vatican City) for both work and fun: Canada, Germany, France, England, Scotland, Austria, Belgium, UAE, South Korea, United States, and Italy.
