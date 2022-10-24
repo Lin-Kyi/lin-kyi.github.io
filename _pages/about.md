@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! My name is Lin, and I am currently a second-year PhD student at the Max Planck Institute for Security and Privacy (MPI-SP) under the supervision of [Dr. Asia Biega](https://asiabiega.github.io/).
+Hello there! My name is Lin, and I am currently a second-year PhD student at the Max Planck Institute for Security and Privacy (MPI-SP) under the supervision of [Asia Biega](https://asiabiega.github.io/).
 
 My research focus is on data governance and deceptive design, with a special focus on consent under the GDPR. I combine my knowledge of HCI, psychology, and quantitative + qualitative methods to investigate research questions, and engage in interdisciplinary collaborations.
 
