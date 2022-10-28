@@ -47,6 +47,7 @@ Outside of direct research, I am also interested in academic outreach, specifica
 
 ### External Funding
 * 2022: UC Berkeley Centre for Long-Term Cybersecurity research and travel funding
+* 2019: Computing Research Association URMD's Grad Cohort for Women scholarship
 * 2019 - 2021: NSERC CREATE grant
 
 ### Relevant Work Experience
