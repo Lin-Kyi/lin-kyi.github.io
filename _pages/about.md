@@ -47,7 +47,7 @@ Outside of direct research, I am also interested in academic outreach, specifica
 
 ### External Funding
 * 2022: UC Berkeley Centre for Long-Term Cybersecurity research and travel funding
-* 2019: Computing Research Association URMD's Grad Cohort for Women scholarship
+* 2020: Computing Research Association URMD's Grad Cohort for Women scholarship
 * 2019 - 2021: NSERC CREATE grant
 
 ### Relevant Work Experience
@@ -67,6 +67,6 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * Student Volunteer, Who Are You?! Adventures in Authentication Workshop, 2021
 
 ### Personal
-My hometown is Toronto, Canada 🍁. I am fortunate to be living in Germany for the duration of my PhD, where I have been able to easily travel around and visit new places. In the first year of my PhD, I went to 3 continents, or 11 countries for both work and fun: Canada, Germany, France, England, Scotland, Austria, Belgium, UAE, South Korea, United States, and Italy (so 12 countries if you count Vatican City).
+My hometown is Toronto, Canada 🍁. I am fortunate to be living in Germany for the duration of my PhD, where I have been able to easily travel around and visit new places.
 
 In my free time, I enjoy hiking, watercolour painting, [painting on hikes](https://en.wikipedia.org/wiki/En_plein_air), playing the [ocarina](https://en.wikipedia.org/wiki/Ocarina), and dabble in various crafts such as knitting, bookbinding, sewing, and scrapbooking. 
