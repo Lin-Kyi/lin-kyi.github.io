@@ -67,6 +67,6 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * Student Volunteer, Who Are You?! Adventures in Authentication Workshop, 2021
 
 ### Personal
-My hometown is Toronto, Canada 🍁. I am fortunate to be living in Germany for the duration of my PhD, as I enjoy travelling!
+My hometown is Toronto, Canada 🍁. I am fortunate to be living in Germany for the duration of my PhD because I like to travel!
 
 In my free time, I enjoy hiking, watercolour painting, [painting on hikes](https://en.wikipedia.org/wiki/En_plein_air), playing the [ocarina](https://en.wikipedia.org/wiki/Ocarina), and dabble in various crafts such as knitting, bookbinding, sewing, and scrapbooking. 
