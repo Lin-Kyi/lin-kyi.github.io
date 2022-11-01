@@ -10,7 +10,7 @@ redirect_from:
 
 Hello there! My name is Lin, and I am currently a second-year PhD student at the Max Planck Institute for Security and Privacy (MPI-SP). 
 
-My research focus is on data governance and deceptive design, with a special focus on consent under the GDPR. I combine my knowledge of HCI, psychology, and quantitative + qualitative methods to investigate research questions, and engage in interdisciplinary collaborations. I am interested in harms of data practices on end-users, especially those from marginalized and under-studied populations.
+My research focus is on data governance and deceptive design, with a special focus on consent under the GDPR. I combine my knowledge of HCI, psychology, and quantitative + qualitative methods to investigate research questions, and engage in interdisciplinary collaborations.
 
 Outside of direct research, I am also interested in academic outreach, specifically in expanding our ideas of what "computer science" is. If you are from the social sciences and interested in pivoting to computer science, please feel free to reach out to me and I'd be happy to chat!
 
@@ -67,6 +67,6 @@ Outside of direct research, I am also interested in academic outreach, specifica
 * Student Volunteer, Who Are You?! Adventures in Authentication Workshop, 2021
 
 ### Personal
-My hometown is Toronto, Canada 🍁. I am fortunate to be living in Germany for the duration of my PhD, where I have been able to easily travel around and visit new places.
+My hometown is Toronto, Canada 🍁. I am fortunate to be living in Germany for the duration of my PhD, as I enjoy travelling!
 
 In my free time, I enjoy hiking, watercolour painting, [painting on hikes](https://en.wikipedia.org/wiki/En_plein_air), playing the [ocarina](https://en.wikipedia.org/wiki/Ocarina), and dabble in various crafts such as knitting, bookbinding, sewing, and scrapbooking. 
