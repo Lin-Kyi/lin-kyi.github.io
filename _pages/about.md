@@ -14,6 +14,8 @@ My research focus is on data governance and deceptive design, with a special foc
 
 Outside of direct research, I am also interested in academic outreach, specifically in expanding our ideas of what "computer science" is. If you are from the social sciences and interested in pivoting to computer science, please feel free to reach out to me and I'd be happy to chat!
 
+An up-to-date version of my CV can be found here: [PDF](https://drive.google.com/file/d/14bRGvHHgjvPQvEhkwndh5-CqqxDLR-kZ/view?usp=sharing)
+
 ### Education
 * September 2021 - Present: **PhD in Computer Science** at the *Max Planck Institute for Security and Privacy* (Bochum, Germany)
    - Supervisor: [Asia Biega](https://asiabiega.github.io/)
