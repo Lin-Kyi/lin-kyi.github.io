@@ -33,7 +33,7 @@ An up-to-date version of my CV can be found here: [PDF](https://drive.google.com
 
 * "'I don’t really give them piece of mind': User Perceptions of Social Engineering Attacks" [[pre-print]](https://drive.google.com/file/d/1g3PlfBVDR6iN_39uirWw0XZnZnnyMM4o/view?usp=sharing) <br/>
 **Lin Kyi**, and Elizabeth Stobert <br/>
-[Under review at *APWG eCrime Symposium on Electronic Crime Research*, 2022] 
+*APWG eCrime Symposium on Electronic Crime Research*, 2022 
 
 * "Individual Differences and Perceived Password Security Management" [[PDF]](https://wayworkshop.org/2020/papers/way2020-kyi.pdf) <br/>
 **Lin Kyi**, Sonia Chiasson, and Elizabeth Stobert  <br/>
