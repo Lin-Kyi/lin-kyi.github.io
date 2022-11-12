@@ -64,6 +64,7 @@ An up-to-date version of my CV can be found here: [PDF](https://drive.google.com
 * Introduction to Cognitive Psychology (PSYC 2700), *Carleton University*, Fall 2019/Winter 2020
 
 ### Volunteering
+* Member, [Open Science working group](https://www.phdnet.mpg.de/phdnet/who/workgroups/open-science-group), Max Planck Society (PhDNet), November 2022 - Present
 * Co-organizer, Spark(l)ing Science at MPI-SP (a bi-weekly series of research lectures and discussion in a casual environment at our institute), 2022 - Present
 * Student Volunteer, FAccT Conference, 2022
 * Student Volunteer, Who Are You?! Adventures in Authentication Workshop, 2021
