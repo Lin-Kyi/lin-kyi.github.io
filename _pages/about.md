@@ -12,7 +12,7 @@ Hello there! My name is Lin, and I am currently a second-year PhD student at the
 
 My research focus is on data governance and deceptive design, with a special focus on online consent. I combine my knowledge of HCI, psychology, and quantitative + qualitative methods to investigate research questions, and engage in interdisciplinary collaborations.
 
-I am interested in expanding our ideas of what "computer science" is (i.e., not everyone who does computer science is wearing a hoodie hacking away in a dark basement :)). If you are from the social sciences and interested in pivoting to computer science, please feel free to reach out to me and I'd be happy to chat!
+Due to my unexpected (but very exciting!) journey to computer science research, I am interested in expanding our ideas of what "computer science" is. Due to common stereotypes about computer scientists, many women and underrepresented groups tend to not pursue computer science ([read more here])(https://www.nature.com/articles/s41598-022-09522-0). However, stumbling upon this wonderful path has led me to realize how broad and interesting computer science is; just look at the cool work being published at conferences such as CHI, CSCW, FAccT, etc. to understand how broad this field can be. If you are from the social sciences and interested in pivoting to computer science, please feel free to reach out to me and I'd be happy to chat!
 
 My CV can be found here: [PDF](https://drive.google.com/file/d/1eHQdqJavZyryhM0fwxjcBu17gA474c7o/view?usp=sharing) (updated Nov. 12, 2022)
 
