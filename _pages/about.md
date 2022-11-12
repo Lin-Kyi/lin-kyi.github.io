@@ -10,9 +10,9 @@ redirect_from:
 
 Hello there! My name is Lin, and I am currently a second-year PhD student at the Max Planck Institute for Security and Privacy (MPI-SP). 
 
-My research focus is on data governance and deceptive design, with a special focus on consent under the GDPR. I combine my knowledge of HCI, psychology, and quantitative + qualitative methods to investigate research questions, and engage in interdisciplinary collaborations.
+My research focus is on data governance and deceptive design, with a special focus on online consent. I combine my knowledge of HCI, psychology, and quantitative + qualitative methods to investigate research questions, and engage in interdisciplinary collaborations.
 
-Outside of direct research, I am also interested in academic outreach, specifically in expanding our ideas of what "computer science" is. If you are from the social sciences and interested in pivoting to computer science, please feel free to reach out to me and I'd be happy to chat!
+I am interested in expanding our ideas of what "computer science" is (i.e., not everyone who does computer science is wearing a hoodie hacking away in a dark basement :)). If you are from the social sciences and interested in pivoting to computer science, please feel free to reach out to me and I'd be happy to chat!
 
 My CV can be found here: [PDF](https://drive.google.com/file/d/1eHQdqJavZyryhM0fwxjcBu17gA474c7o/view?usp=sharing) (updated Nov. 12, 2022)
 
