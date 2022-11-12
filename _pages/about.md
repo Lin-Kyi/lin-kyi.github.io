@@ -12,7 +12,7 @@ Hello there! My name is Lin, and I am currently a second-year PhD student at the
 
 My research focus is on data governance and deceptive design, with a special focus on online consent. I combine my knowledge of HCI, psychology, and quantitative + qualitative methods to investigate research questions, and engage in interdisciplinary collaborations.
 
-Due to my unexpected (but very exciting!) journey to computer science research, I am interested in expanding our ideas of what "computer science" is. Stereotypes about computer science and computer scientists deter many women and underrepresented groups from pursuing computer science (including myself!) [[read more here]](https://www.nature.com/articles/s41598-022-09522-0). However, accidentally entering this wonderful path after taking a course on design in undergrad has led me to realize how broad and interesting computer science is; just look at the cool work being published at interdisciplinary conferences such as [CHI](https://dl.acm.org/conference/chi), [CSCW](https://dl.acm.org/conference/cscw), [FAccT](https://dl.acm.org/conference/facct), etc. to understand how wide this field can be. 
+Due to my unexpected (but very exciting!) journey to computer science research, I am interested in expanding our ideas of what "computer science" is. Stereotypes about computer science and computer scientists deter many women and underrepresented groups from pursuing computer science (including myself!) [[read more here]](https://www.nature.com/articles/s41598-022-09522-0). Accidentally stumbling upon this wonderful path after taking a course on design in undergrad has led me to realize how broad and interesting computer science is; just look at the cool work being published at interdisciplinary conferences such as [CHI](https://dl.acm.org/conference/chi), [CSCW](https://dl.acm.org/conference/cscw), [FAccT](https://dl.acm.org/conference/facct), etc. to understand how wide this field can be. 
 
 If you are from the social sciences and interested in pivoting to computer science, please feel free to reach out to me and I'd be happy to chat!
 
@@ -21,7 +21,6 @@ My CV can be found here: [PDF](https://drive.google.com/file/d/1unuo2FoOqlD6Z5Kr
 ### Education
 * September 2021 - Present: **PhD in Computer Science** at the *Max Planck Institute for Security and Privacy* (Bochum, Germany)
    - Supervisor: [Asia Biega](https://asiabiega.github.io/)
-   - My degree will be conferred by Ruhr-University Bochum
 * 2019 - 2021: **MA in Human-Computer Interaction** at *Carleton University* (Ottawa, Canada)
    - Supervisor: [Elizabeth Stobert](https://carleton.ca/scs/people/elizabeth-stobert/)
    - Thesis: "End User Mental Models of Social Engineering Attacks" [[PDF]](https://curve.carleton.ca/system/files/etd/2b0397df-0447-481a-bedb-3cdfed153cd3/etd_pdf/20586d0098ccea7701d7ce1fe928acd5/kyi-endusermentalmodelsofsocialengineeringattacks.pdf) 
@@ -72,6 +71,6 @@ My CV can be found here: [PDF](https://drive.google.com/file/d/1unuo2FoOqlD6Z5Kr
 * Student Volunteer, Who Are You?! Adventures in Authentication Workshop, 2021
 
 ### Personal
-My hometown is Toronto, Canada 🍁. I am fortunate to be living in Germany for the duration of my PhD because I like to travel!
+My hometown is Toronto, Canada 🍁. I am happy to be living in Germany for the duration of my PhD because I like to travel!
 
 In my free time, I enjoy hiking, watercolour painting, [painting on hikes](https://en.wikipedia.org/wiki/En_plein_air), playing the [ocarina](https://en.wikipedia.org/wiki/Ocarina), and dabble in various crafts such as knitting, bookbinding, sewing, and scrapbooking. 
