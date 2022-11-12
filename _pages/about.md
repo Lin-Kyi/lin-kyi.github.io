@@ -14,14 +14,14 @@ My research focus is on data governance and deceptive design, with a special foc
 
 Outside of direct research, I am also interested in academic outreach, specifically in expanding our ideas of what "computer science" is. If you are from the social sciences and interested in pivoting to computer science, please feel free to reach out to me and I'd be happy to chat!
 
-An up-to-date version of my CV can be found here: [PDF](https://drive.google.com/file/d/1eHQdqJavZyryhM0fwxjcBu17gA474c7o/view?usp=sharing)
+My CV can be found here: [PDF](https://drive.google.com/file/d/1eHQdqJavZyryhM0fwxjcBu17gA474c7o/view?usp=sharing) (updated Nov. 12, 2022)
 
 ### Education
 * September 2021 - Present: **PhD in Computer Science** at the *Max Planck Institute for Security and Privacy* (Bochum, Germany)
    - Supervisor: [Asia Biega](https://asiabiega.github.io/)
    - My degree will be conferred by Ruhr-University Bochum
 * 2019 - 2021: **MA in Human-Computer Interaction** at *Carleton University* (Ottawa, Canada)
-   - Supervisor: Elizabeth Stobert
+   - Supervisor: [Elizabeth Stobert](https://carleton.ca/scs/people/elizabeth-stobert/)
    - Thesis: "End User Mental Models of Social Engineering Attacks" [[PDF]](https://curve.carleton.ca/system/files/etd/2b0397df-0447-481a-bedb-3cdfed153cd3/etd_pdf/20586d0098ccea7701d7ce1fe928acd5/kyi-endusermentalmodelsofsocialengineeringattacks.pdf) 
    - During my Master's, I was also funded by an NSERC CREATE grant  
 * 2015 - 2019: **BA (Honours) in Psychology** at *Queen's University* (Kingston, Canada)
