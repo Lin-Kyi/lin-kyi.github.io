@@ -53,7 +53,6 @@ My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (
 * 2019 - 2021: Graduate Research Assistant, *Carleton University*
 * 2019 - 2021: Teaching Assistant, *Carleton University* (see [below](###Teaching Assistantships))
 * May - August 2020: UX Research Intern, *Immigration, Refugees, and Citizenship Canada (IRCC)*, Ottawa, Canada
-* January - April 2019: UX Design Intern, *JIC Design*, Kingston, Canada
 
 ### Teaching Assistantships
 * Introduction to Human-Computer Interaction (COMP 3008), *Carleton University*, Winter 2021
