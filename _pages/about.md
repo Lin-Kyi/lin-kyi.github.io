@@ -37,7 +37,7 @@ My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (
 *Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS)*, 2020
 
 ### Presentations 
-* Dark Patterns in GDPR's Legitimate Interest, *UC Berkeley Center for Long-Term Cybersecurity Symposium*, Berkeley, United States, July 2022.
+* Dark Patterns in GDPR's Legitimate Interest, *UC Berkeley Center for Long-Term Cybersecurity Symposium*, UC Berkeley, United States, July 2022.
 
 * Elaborate Dark Patterns After Privacy Regulations, *Max Planck Law-Tech Symposium*, Online, May 2022.
 
