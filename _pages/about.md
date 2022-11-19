@@ -47,7 +47,7 @@ My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (
 ### External Funding
 * 2022: UC Berkeley Centre for Long-Term Cybersecurity research and travel funding
 * 2020: Computing Research Association URMD's Grad Cohort for Women scholarship
-* 2019 - 2021: NSERC CREATE grant
+* 2019 - 2021: NSERC CREATE grant (Natural Sciences and Engineering Research Council of Canada)
 
 ### Relevant Work Experience
 * 2019 - 2021: Graduate Research Assistant, *Carleton University*
