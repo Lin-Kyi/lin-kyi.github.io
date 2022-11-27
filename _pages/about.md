@@ -20,7 +20,6 @@ My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (
 * 2019 - 2021: **MA in Human-Computer Interaction** at *Carleton University* (Ottawa, Canada)
    - Supervisor: [Elizabeth Stobert](https://carleton.ca/scs/people/elizabeth-stobert/)
    - Thesis: "End User Mental Models of Social Engineering Attacks" [[PDF]](https://curve.carleton.ca/system/files/etd/2b0397df-0447-481a-bedb-3cdfed153cd3/etd_pdf/20586d0098ccea7701d7ce1fe928acd5/kyi-endusermentalmodelsofsocialengineeringattacks.pdf) 
-   - During my Master's, I was also generously funded by an NSERC CREATE grant  
 * 2015 - 2019: **BA (Honours) in Psychology** at *Queen's University* (Kingston, Canada)
 
 ### External Funding
@@ -32,6 +31,7 @@ My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (
 * 2019 - 2021: Graduate Research Assistant, *Carleton University*
 * 2019 - 2021: Teaching Assistant, *Carleton University* (see [here](https://lin-kyi.github.io/teaching/))
 * May - August 2020: UX Research Intern, *Immigration, Refugees, and Citizenship Canada (IRCC)*, Ottawa, Canada
+* 2016 - 2019: Undergraduate Research Assistant, *Department of Psychology, Queen's University*
 
 ### Volunteering
 * Member, [Open Science working group](https://www.phdnet.mpg.de/phdnet/who/workgroups/open-science-group), Max Planck Society (PhDNet), November 2022 - Present
