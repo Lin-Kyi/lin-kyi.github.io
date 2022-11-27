@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### Publications
 * "Investigating Deceptive Design in GDPR's Legitimate Interest" [[pre-print]](https://drive.google.com/file/d/15mgXTXGcv2UO2tKufcVIM5xfI8me4lLj/view?usp=sharing) <br/>
 **Lin Kyi**, Sushil Ammanaghatta Shivakumar, Franziska Roesner, Cristiana Santos, Frederike Zufall, and Asia Biega <br/>
 [Under review at *CHI Human Factors in Computing Systems Conference*, 2023]  
