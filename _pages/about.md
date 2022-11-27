@@ -35,14 +35,14 @@ My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (
 * "Individual Differences and Perceived Password Security Management" [[PDF]](https://wayworkshop.org/2020/papers/way2020-kyi.pdf) <br/>
 **Lin Kyi**, Sonia Chiasson, and Elizabeth Stobert  <br/>
 *Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS)*, 2020 -->
-
+<!-- 
 ### Presentations 
 * Dark Patterns in GDPR's Legitimate Interest, *UC Berkeley Center for Long-Term Cybersecurity Symposium*, UC Berkeley, United States, July 2022.
 
 * Elaborate Dark Patterns After Privacy Regulations, *Max Planck Law-Tech Symposium*, Online, May 2022.
 
 * Poster: Personality and Password Management, *CRA-W Grad Cohort for Women Workshop*, New Orleans, United States, April 2020. <br/>
-(this event was unfortunately cancelled due to COVID-19)
+(this event was unfortunately cancelled due to COVID-19) -->
 
 ### External Funding
 * 2022: UC Berkeley Centre for Long-Term Cybersecurity research and travel funding
