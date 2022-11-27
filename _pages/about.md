@@ -54,10 +54,10 @@ My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (
 * 2019 - 2021: Teaching Assistant, *Carleton University* (see [below](###Teaching Assistantships))
 * May - August 2020: UX Research Intern, *Immigration, Refugees, and Citizenship Canada (IRCC)*, Ottawa, Canada
 
-### Teaching Assistantships
+<!-- ### Teaching Assistantships
 * Introduction to Human-Computer Interaction (COMP 3008), *Carleton University*, Winter 2021
 * Technical Writing for Computer Science (COMP 3301), *Carleton University*, Fall 2020
-* Introduction to Cognitive Psychology (PSYC 2700), *Carleton University*, Fall 2019/Winter 2020
+* Introduction to Cognitive Psychology (PSYC 2700), *Carleton University*, Fall 2019/Winter 2020 -->
 
 ### Volunteering
 * Member, [Open Science working group](https://www.phdnet.mpg.de/phdnet/who/workgroups/open-science-group), Max Planck Society (PhDNet), November 2022 - Present
