@@ -48,4 +48,4 @@ Due to my unexpected (but very exciting!) journey into computer science research
 
 Accidentally stumbling upon this wonderful career path after taking a course on design in undergrad has led me to realize how broad and interesting computer science is. Just look at the cool work being published at top computer science conferences such as [CHI](https://dl.acm.org/conference/chi), [CSCW](https://dl.acm.org/conference/cscw), [FAccT](https://dl.acm.org/conference/facct), etc. to understand how this field can be used to improve and understand human life and society.
 
-If you are from the social sciences and interested in pivoting to computer science, please feel free to reach out to me and I'd be happy to chat and offer any tips I have.
+If you are from the social sciences and interested in [pivoting](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3131) to computer science, please feel free to reach out to me and I'd be happy to chat and offer any tips I have.
