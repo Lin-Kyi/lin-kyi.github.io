@@ -30,7 +30,7 @@ My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (
 
 ### Relevant Work Experience
 * 2019 - 2021: Graduate Research Assistant, *Carleton University*
-* 2019 - 2021: Teaching Assistant, *Carleton University* (see [below](###Teaching Assistantships))
+* 2019 - 2021: Teaching Assistant, *Carleton University* (see [here](https://lin-kyi.github.io/teaching/))
 * May - August 2020: UX Research Intern, *Immigration, Refugees, and Citizenship Canada (IRCC)*, Ottawa, Canada
 
 ### Volunteering
