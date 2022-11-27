@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Personal"
+permalink: /personal/
+author_profile: true
+---
+
 My hometown is Toronto, Canada 🍁. Living in Germany for my PhD has so far been a great experience filled with traveling (for work and fun), exploring a new culture, and learning German.
 
 In my free time, I enjoy hiking, watercolour painting, [painting on hikes](https://en.wikipedia.org/wiki/En_plein_air), playing the [ocarina](https://en.wikipedia.org/wiki/Ocarina), and dabble in various crafts such as knitting, bookbinding, sewing, and scrapbooking. 
