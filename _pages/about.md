@@ -23,7 +23,7 @@ My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (
    - During my Master's, I was also funded by an NSERC CREATE grant  
 * 2015 - 2019: **BA (Honours) in Psychology** at *Queen's University* (Kingston, Canada)
 
-### Publications
+<!-- ### Publications
 * "Investigating Deceptive Design in GDPR's Legitimate Interest" [[pre-print]](https://drive.google.com/file/d/15mgXTXGcv2UO2tKufcVIM5xfI8me4lLj/view?usp=sharing) <br/>
 **Lin Kyi**, Sushil Ammanaghatta Shivakumar, Franziska Roesner, Cristiana Santos, Frederike Zufall, and Asia Biega <br/>
 [Under review at *CHI Human Factors in Computing Systems Conference*, 2023]  
@@ -34,7 +34,7 @@ My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (
 
 * "Individual Differences and Perceived Password Security Management" [[PDF]](https://wayworkshop.org/2020/papers/way2020-kyi.pdf) <br/>
 **Lin Kyi**, Sonia Chiasson, and Elizabeth Stobert  <br/>
-*Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS)*, 2020
+*Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS)*, 2020 -->
 
 ### Presentations 
 * Dark Patterns in GDPR's Legitimate Interest, *UC Berkeley Center for Long-Term Cybersecurity Symposium*, UC Berkeley, United States, July 2022.
