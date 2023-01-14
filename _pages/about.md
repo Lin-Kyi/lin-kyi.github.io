@@ -12,7 +12,7 @@ Hello there! My name is Lin, and I am currently a second-year PhD student at the
 
 My research focus is on the human factors of data governance and ethics. I am especially interested in deceptive designs (AKA dark patterns) and how they impact human decision-making in privacy contexts, i.e., online consent. I combine my knowledge of HCI, psychology, and quantitative + qualitative user research methods to investigate research questions, and engage in interdisciplinary collaborations.
 
-My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (updated Dec. 7, 2022)
+My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (updated Jan. 14, 2023)
 
 ### Education
 * September 2021 - Present: **PhD in Computer Science** at the *Max Planck Institute for Security and Privacy* (Bochum, Germany)
