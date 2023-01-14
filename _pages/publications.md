@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### Peer-Reviewed Conference Papers
-* "Investigating Deceptive Design in GDPR's Legitimate Interest" [[pre-print]](lin-kyi.github.io/files/CHI2023_legitimate-interest.pdf) <br/>
+* "Investigating Deceptive Design in GDPR's Legitimate Interest" [[pre-print]](https://lin-kyi.github.io/files/CHI2023_legitimate-interest.pdf) <br/>
 **Lin Kyi**, Sushil Ammanaghatta Shivakumar, Franziska Roesner, Cristiana Santos, Frederike Zufall, and Asia Biega <br/>
 [Forthcoming at *CHI Human Factors in Computing Systems Conference*, 2023]  
 
