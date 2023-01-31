@@ -40,7 +40,7 @@ My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (
 * Student Volunteer, Who Are You?! Adventures in Authentication Workshop, 2021
 
 ### Personal
-I hope to explore as much of the world as I can in my lifetime, so living in Germany has been a great experience filled with a lot of travelling (for both work and fun). In the first year of my PhD, I went to 11 countries spread across 3 continents: Canada, Germany, France, England, Scotland, Austria, Belgium, UAE, South Korea, the USA, and Italy (12 countries if you count Vatican City).
+I hope to explore as much of the world as I can in my lifetime, so living in Germany has been a great experience filled with a lot of travelling (for both work and fun). Since starting my PhD, I've been to 12 countries spread across 3 continents: Canada, Germany, France, England, Scotland, Austria, Belgium, UAE, South Korea, the USA, Italy (+ Vatican City), and the Netherlands.
 
 Due to my unexpected (but very exciting!) journey into computer science research, I want to expand our ideas of what "computer science" is to encourage more diversity in this field. Stereotypes about computer science and computer scientists deter many women and underrepresented groups from pursuing computer science [[read more here]](https://www.semanticscholar.org/paper/Cultural-stereotypes-as-gatekeepers%3A-increasing-in-Cheryan-Master/d1acea2d2928dac63e9594890c1208699440ded0). 
 
