@@ -40,9 +40,7 @@ My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (
 * Student Volunteer, Who Are You?! Adventures in Authentication Workshop, 2021
 
 ### Personal
-My hometown is Toronto, Canada 🍁. Living in Germany for my PhD has so far been a great experience filled with traveling (for work and fun), exploring a new culture, and learning German.
-
-In my free time, I enjoy hiking, watercolour painting, [painting on hikes](https://en.wikipedia.org/wiki/En_plein_air), playing the [ocarina](https://en.wikipedia.org/wiki/Ocarina), and [reading](https://linkyi.notion.site/Reading-Log-adeeed495d82414580886f1cbd6e37df).
+I hope to explore as much of the world as I can in my lifetime, so living in Germany has been a great experience filled with a lot of travelling (for both work and fun). In the first year of my PhD, I went to 11 countries spread across 3 continents: Canada, Germany, France, England, Scotland, Austria, Belgium, UAE, South Korea, the USA, and Italy (12 countries if you count Vatican City).
 
 Due to my unexpected (but very exciting!) journey into computer science research, I want to expand our ideas of what "computer science" is to encourage more diversity in this field. Stereotypes about computer science and computer scientists deter many women and underrepresented groups from pursuing computer science [[read more here]](https://www.semanticscholar.org/paper/Cultural-stereotypes-as-gatekeepers%3A-increasing-in-Cheryan-Master/d1acea2d2928dac63e9594890c1208699440ded0). 
 
