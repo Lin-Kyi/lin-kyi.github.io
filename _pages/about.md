@@ -10,7 +10,7 @@ redirect_from:
 
 Hello there! My name is Lin, and I am currently a second-year PhD student at the Max Planck Institute for Security and Privacy (MPI-SP). 
 
-My research focus is on the human factors of data governance and compliance. I combine my knowledge of HCI, psychology, and quantitative + qualitative user research methods to investigate research questions, and engage in interdisciplinary collaborations, particularly with CS and law folks.
+My research focus is on the human factors of data protection and compliance. I combine my knowledge of HCI, psychology, and quantitative + qualitative user research methods to investigate research questions, and engage in interdisciplinary collaborations, particularly with CS and law folks.
 
 My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (updated Jan. 14, 2023)
 
