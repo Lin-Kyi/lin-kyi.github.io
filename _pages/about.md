@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! My name is Lin, and I am currently a second-year PhD student at the Max Planck Institute for Security and Privacy (MPI-SP). In autumn 2023, I will be a visiting PhD student at the University of Oxford's Department of Computer Science (Human-Centred Computing), working with [Jun Zhao](https://www.cs.ox.ac.uk/people/jun.zhao/). 
+Hello there! My name is Lin, and I am currently a second-year PhD student at the Max Planck Institute for Security and Privacy (MPI-SP). 
+<!-- In autumn 2023, I will be a visiting PhD student at the University of Oxford's Department of Computer Science (Human-Centred Computing), working with [Jun Zhao](https://www.cs.ox.ac.uk/people/jun.zhao/).  -->
 
 My research focus is on the human factors of data protection and compliance. I combine my knowledge of HCI, psychology, and quantitative + qualitative user research methods to investigate research questions, and engage in interdisciplinary collaborations, particularly with CS and law folks.
 
