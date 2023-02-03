@@ -19,14 +19,15 @@ My CV can be found here: [PDF](https://lin-kyi.github.io/files/Lin_Kyi_CV.pdf) (
 * September 2021 - Present: **PhD in Computer Science** at the *Max Planck Institute for Security and Privacy* (Bochum, Germany)
    - Supervisor: [Asia Biega](https://asiabiega.github.io/)
 * 2019 - 2021: **MA in Human-Computer Interaction** at *Carleton University* (Ottawa, Canada)
+   - I was fortunate to be supported by an NSERC CREATE grant (Natural Sciences and Engineering Research Council of Canada) during my Master's
    - Supervisor: [Elizabeth Stobert](https://carleton.ca/scs/people/elizabeth-stobert/)
    - Thesis: "End User Mental Models of Social Engineering Attacks" [[PDF]](https://curve.carleton.ca/system/files/etd/2b0397df-0447-481a-bedb-3cdfed153cd3/etd_pdf/20586d0098ccea7701d7ce1fe928acd5/kyi-endusermentalmodelsofsocialengineeringattacks.pdf) 
 * 2015 - 2019: **BA (Honours) in Psychology** at *Queen's University* (Kingston, Canada)
 
-### External Funding
+<!-- ### External Funding
 * 2022: UC Berkeley Centre for Long-Term Cybersecurity research and travel funding
 * 2020: Computing Research Association URMD's Grad Cohort for Women scholarship
-* 2019 - 2021: NSERC CREATE grant (Natural Sciences and Engineering Research Council of Canada)
+* 2019 - 2021: NSERC CREATE grant (Natural Sciences and Engineering Research Council of Canada) -->
 
 ### Relevant Work Experience
 * 2019 - 2021: Graduate Research Assistant, *Carleton University*
