@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ### Peer-Reviewed Conference Papers
+* **Lin Kyi**, Cristiana Santos, Sushil Ammanaghatta Shivakumar, Franziska Roesner, and Asia Biega <br/>
+[Under review the *Fairness, Accountability and Transparency (FAccT) Conference*, 2023]  
+
 * "Investigating Deceptive Design in GDPR's Legitimate Interest" [[preprint]](https://lin-kyi.github.io/files/CHI2023_legitimate-interest.pdf) <br/>
 **Lin Kyi**, Sushil Ammanaghatta Shivakumar, Franziska Roesner, Cristiana Santos, Frederike Zufall, and Asia Biega <br/>
 [Forthcoming at *CHI Human Factors in Computing Systems Conference*, 2023]  
