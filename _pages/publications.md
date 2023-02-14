@@ -10,7 +10,7 @@ author_profile: true
 
 * "Investigating Deceptive Design in GDPR's Legitimate Interest" [[preprint]](https://lin-kyi.github.io/files/CHI2023_legitimate-interest.pdf) <br/>
 **Lin Kyi**, Sushil Ammanaghatta Shivakumar, Franziska Roesner, Cristiana Santos, Frederike Zufall, and Asia Biega <br/>
-[Forthcoming at *CHI Human Factors in Computing Systems Conference*, 2023]  
+[Forthcoming at *ACM Human Factors in Computing Systems Conference (CHI)*, 2023]  
 
 * "'I don’t really give them piece of mind': User Perceptions of Social Engineering Attacks" [[preprint]](https://drive.google.com/file/d/1g3PlfBVDR6iN_39uirWw0XZnZnnyMM4o/view?usp=sharing) <br/>
 **Lin Kyi**, and Elizabeth Stobert <br/>
