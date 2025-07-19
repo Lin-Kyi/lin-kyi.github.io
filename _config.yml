@@ -18,12 +18,12 @@ sass:
 
 nav:
  - name: "About"
-   link: "/about/"
+   link: "/"
  - name: "Publications"
-   link: "/publications/"
+   link: "/publications"
  - name: "Talks and Media"
-   link: "/talks-media/"
+   link: "/talks-media"
  - name: "Teaching and Supervision"
-   link: "/teaching-supervision/"
+   link: "/teaching-supervision"
  - name: "service"
-   link: "/service/"
+   link: "/service"
