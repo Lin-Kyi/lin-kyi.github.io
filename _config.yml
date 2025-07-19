@@ -1,5 +1,5 @@
 title: Researcher
-url: "https://jeremyThibault.github.io"
+url: "https://lin-kyi.github.io"
 baseurl: "/"
 remote_theme: ankitsultana/researcher@gem
 
@@ -18,8 +18,12 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+   link: "/about/"
+ - name: "Publications"
+   link: "/publications/"
+ - name: "Talks and Media"
+   link: "/talks-media/"
+ - name: "Teaching and Supervision"
+   link: "/teaching-supervision/"
+ - name: "service"
+   link: "/service/"
