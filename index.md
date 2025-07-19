@@ -18,11 +18,11 @@ I am from the vibrant, multicultural city of Toronto, Canada. Outside of researc
 
 **PhD in Computer Science at the Max Planck Institute for Security and Privacy (MPI-SP)** (Bochum, Germany)  
 Supervisor: Asia Biega  
-Research Interests: Consent, responsible data collection, tech policy  
+Thesis: "Reimagining Online Consent for Responsible, Human-Centric and Sustainable Data Collection"   
 September 2021 - Present  
 
 **Visiting Researcher at University of Oxford** (Oxford, UK)  
-Visited the Human-Centred Computing Group  
+Hosted by the Human-Centred Computing Group, Department of Computer Science  
 September - December 2023  
 
 **MA in Human-Computer Interaction at Carleton University** (Ottawa, Ontario, Canada)  
