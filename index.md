@@ -14,19 +14,19 @@ I am from the vibrant, multicultural city of Toronto, Canada. Outside of researc
 
 ## Education
 
-**PhD in Computer Science at the Max Planck Institute for Security and Privacy** (Bochum, Germany)
-Supervisor: Asia Biega
-Research Interests: Consent, responsible data collection, tech policy
-September 2021 - Present
+**PhD in Computer Science at the Max Planck Institute for Security and Privacy** (Bochum, Germany)  
+Supervisor: Asia Biega  
+Research Interests: Consent, responsible data collection, tech policy  
+September 2021 - Present  
 
-**Visiting Researcher at University of Oxford** (Oxford, UK)
-Visited the Human-Centred Computing Group
-September - December 2023
+**Visiting Researcher at University of Oxford** (Oxford, UK)  
+Visited the Human-Centred Computing Group  
+September - December 2023  
 
-**MA in Human-Computer Interaction at Carleton University** (Ottawa, Ontario, Canada)
-Supervisor: Elizabeth Stobert
-Thesis: “End User Mental Models of Social Engineering Attacks” [PDF]
-2019 - 2021
+**MA in Human-Computer Interaction at Carleton University** (Ottawa, Ontario, Canada)  
+Supervisor: Elizabeth Stobert  
+Thesis: “End User Mental Models of Social Engineering Attacks” [PDF](https://curve.carleton.ca/system/files/etd/2b0397df-0447-481a-bedb-3cdfed153cd3/etd_pdf/20586d0098ccea7701d7ce1fe928acd5/kyi-endusermentalmodelsofsocialengineeringattacks.pdf)  
+2019 - 2021  
 
-**BA (Honours) in Psychology at Queen’s University** (Kingston, Ontario, Canada)
-2015 - 2019
+**BA (Honours) in Psychology at Queen’s University** (Kingston, Ontario, Canada). 
+2015 - 2019  
