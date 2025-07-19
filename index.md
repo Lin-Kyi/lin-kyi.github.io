@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="lin.jpg">
+<img class="profile-picture" src="lin.JPG">
 
 Hi! My name is Lin (she/her). I am a PhD student at the Max Planck Institute for Security and Privacy (MPI-SP) where I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing Group. 
 
