@@ -14,7 +14,7 @@ I am from the vibrant, multicultural city of Toronto, Canada. Outside of researc
 
 ## Education
 
-**PhD in Computer Science at the Max Planck Institute for Security and Privacy** (Bochum, Germany)  
+**PhD in Computer Science at the Max Planck Institute for Security and Privacy (MPI-SP)** (Bochum, Germany)  
 Supervisor: Asia Biega  
 Research Interests: Consent, responsible data collection, tech policy  
 September 2021 - Present  
