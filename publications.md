@@ -17,11 +17,11 @@ _ACM Conference on Human Factors in Computing Systems (CHI '25)_
 
 **'It doesn't tell me anything about how my data is used': User Perceptions of Data Collection Purposes** [PDF](https://dl.acm.org/doi/10.1145/3613904.3642260)  
 **Lin Kyi**, Abraham Mhaidli, Cristiana Santos, Franziska Roesner, and Asia Biega  
-_ACM Conference on Human Factors in Computing Systems (CHI '24) _
+_ACM Conference on Human Factors in Computing Systems (CHI '24)_
 
 **'I’m not convinced that they don’t collect more than is necessary': User-Controlled Data Minimization Design in Search Engines** [PDF](https://www.usenix.org/system/files/usenixsecurity24-sharma.pdf)  
 Tanusree Sharma, **Lin Kyi**, Yang Wang, and Asia Biega  
-_USENIX Security '24 _
+_USENIX Security '24_
 
 **Investigating Deceptive Design in GDPR’s Legitimate Interest** [PDF](https://dl.acm.org/doi/full/10.1145/3544548.3580637) [code](https://github.com/asiabiega/Legitimate_Interest_Crawler)   
 **Lin Kyi**, Sushil Ammanaghatta Shivakumar, Franziska Roesner, Cristiana Santos, Frederike Zufall, and Asia Biega  
@@ -32,6 +32,20 @@ _ACM Conference on Human Factors in Computing Systems (CHI '23)_
 **Lin Kyi** and Elizabeth Stobert  
 _APWG eCrime Symposium on Electronic Crime Research '22_
 
-## Workshop Papers
+## Lightly Peer-Reviewed Papers
+**Reimagining Online Consent for More Responsible and Human-Centred Data Collection** [PDF](https://dl.acm.org/doi/10.1145/3613905.3651129)  
+**Lin Kyi**   
+_CHI'24 Extended Abstracts_ (for the CHI Doctoral Consortium)
+
+**Individual Differences and Perceived Password Security Management** [PDF](https://wayworkshop.org/2020/papers/way2020-kyi.pdf)  
+**Lin Kyi**, Sonia Chiasson, and Elizabeth Stobert  
+_Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS) '20_
+
+## Book Chapters
+**Data Dispossession in GenAI: When Consent Isn't Enough**  
+**Lin Kyi**, M. Six Silberman, and Asia Biega  
+For _Volume II of Regulating AI Through Collective Bargaining_, a project led by the European Trade Union Institute (ETUI)
 
 ## Under Review
+**Redefining Creativity Safeguards in the Generative AI Ecosystem: A Social Value-Based Analysis**  
+Amruta Mahuli, **Lin Kyi**, and Asia Biega
