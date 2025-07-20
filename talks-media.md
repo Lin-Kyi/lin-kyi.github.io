@@ -28,3 +28,11 @@ Read a summary of the symposium [here](https://medium.com/cltc-bulletin/2022-clt
 _Max Planck Law-Tech Symposium_, May 2022
 
 ## Public Engagements
+Invited consultation, Cross Device Consent  
+_French Data Protection Authority (CNIL)_, 2025
+
+Wrote an AI Ethics brief for our CHI'24 paper [here](https://montrealethics.ai/it-doesnt-tell-me-anything-about-how-my-data-is-used-user-perceptions-of-data-collection-purposes/)  
+_Montreal AI Ethics Institute_, February 2024 
+
+On behalf of the Open Science Working Group, I was interviewed for a podcast episode, "Open Science in the Max Planck Society"  
+_Offspring Podcast of the Max Planck PhDNet_, July 2023 [audio](https://open.spotify.com/episode/3vWJdnNxCrJTnd7TSZYnEx)
