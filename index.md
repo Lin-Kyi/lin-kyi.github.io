@@ -12,7 +12,7 @@ Broadly, I am investigating how we can reimagine notice and consent and move tow
 
 I collaborate with researchers across computer science, tech policy, and privacy + labour law for broader societal and regulatory impact. My work has garnered interest amongst privacy, trade union, and AI ethics stakeholders across Europe and North America such as the _Future of Privacy Forum, French Data Protection Authority (CNIL), UC Berkeley Center for Long-Term Cybersecurity, NOYB_, and the _European Trade Union Institute_. My work has also won the _Council of Europe's 2024 Rodotà Award_ for an original and innovative contribution to data protection.
 
-I am from the vibrant, multicultural city of Toronto, Canada. Outside of research, I enjoy travelling, hanging out with my cat, and eating and making yummy food.
+Outside of research, I enjoy travelling, cycling, hanging out with my cat, and am a big foodie.
 
 ## Education
 
