@@ -12,14 +12,14 @@ April 2023 - Present: Yu Yamashita (Intern at MPI-SP, co-supervised with Asia Bi
 2022 - 2023: Sushil Shivakumar (Research Assistant at MPI-SP, co-supervised with Asia Biega)
 
 ## Teaching
-Guest Lecturer: **Privacy, Data Governance, and Usability**  
+Guest Lecturer: **Privacy, Data Governance, and Usability** (MSc-level course)  
 Lecture: "Legal Bases for Data Processing"  
 _Ruhr University Bochum, Faculty of Computer Science_, January 2025
 
-Teaching Assistant: **Privacy, Data Governance, and Usability**  
+Teaching Assistant: **Privacy, Data Governance, and Usability** (MSc-level course)    
 _Ruhr University Bochum, Faculty of Computer Science_, Winter 2023/Spring 2024 semester & Winter 2024/Spring 2025 semester
 
-Guest Lecturer: **Law and Technology: GDPR Fundamentals**  
+Guest Lecturer: **Law and Technology: GDPR Fundamentals** (LLM-level course)  
 Lecture: "User-Centric Data Protection"  
 _Utrecht University School of Law_, February 2023
 
