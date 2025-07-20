@@ -30,4 +30,4 @@ Teaching Assistant: **Technical Writing for Computer Science (COMP 3301)**
 _Carleton University, Department of Computer Science_, Fall 2020
 
 Teaching Assistant: **Introduction to Cognitive Psychology (PSYC 2700)**  
-_Carleton University, Department of Psychology, Fall 2019/Winter 2020
+_Carleton University, Department of Psychology_, Fall 2019/Winter 2020
