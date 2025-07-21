@@ -5,7 +5,7 @@ layout: default
 * I prefer my last name be pronounced like "key," instead of the way it should be pronounced in Burmese. As Burmese is a tonal language, a different pronounciation of a word can completely change the meaning. In the case of my last name, this mispronounciation is not so flattering, as explained [here](https://school.teachingbooks.net/pronounce.cgi?pid=3560)
 
 **Professional Materials**
-* My website is hosted on Github Pages using [this](https://github.com/ankitsultana/researcher) template
+* My website is hosted on Github Pages based off of [this](https://github.com/ankitsultana/researcher) template
 * My CV is based off of [this](https://www.overleaf.com/latex/examples/academic-cv-template/hvjpfjnyggbf) template
 
 **PhDing in Germany**
