@@ -25,3 +25,5 @@ nav:
    link: "/teaching-supervision"
  - name: "Service"
    link: "/service"
+ - name: "Random"
+   link: "/random"
