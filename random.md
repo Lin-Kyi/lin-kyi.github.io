@@ -18,5 +18,3 @@ layout: default
    * I tried out [Babbel's live classes](https://www.babbel.com/) for 3 months since it's a good deal. However, as there was no impending doom of losing my money if I missed a class, I found it difficult to keep myself accountable to showing up for these classes  
    * [DW's slowly spoken news](https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332)
    * Just doing random things in German, like buying/selling things on [eBay Kleinanzeigen](https://www.kleinanzeigen.de/), asking for help at a store, listening to the inevitable Deutsche Bahn train announcements (typically announcing a delay or cancellation), and doing stuff related to your hobbies in German can help you learn the language for that specific context
- 
-**Writing**
