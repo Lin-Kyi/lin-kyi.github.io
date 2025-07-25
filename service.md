@@ -8,7 +8,7 @@ layout: default
 **Student volunteer**, _FAccT 2022, WAY Workshop at USENIX SOUPS 2021_
 
 ## Reviewing
-**Program Committee**, _FAccT 2024, FaccT 2025_
+**Program Committee**, _FAccT 2024, FAccT 2025_
 
 **Reviewer**, _CHI 2024, CHI 2025, CSCW 2025 Poster Track_
 
