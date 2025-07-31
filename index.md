@@ -10,7 +10,7 @@ Hi! My name is Lin (she/her). I am a PhD student at the Max Planck Institute for
 
 Broadly, I am investigating how we can reimagine notice and consent and move towards sustainable, responsible, and human-centred data collection for users and AI co-generators (such as workers). It is becoming increasingly evident that we need new ways of responsibly collecting data, particularly as emerging technologies such as GenAI present new challenges to the current model of consent. 
 
-I collaborate with researchers across computer science, tech policy, and privacy + labour law for broader societal and regulatory impact. My work has garnered interest amongst privacy, trade union, and AI ethics stakeholders across Europe and North America such as the _Future of Privacy Forum, French Data Protection Authority (CNIL), UC Berkeley Center for Long-Term Cybersecurity, NOYB_, and the _European Trade Union Institute_. My work has also won the _Council of Europe's 2024 Rodotà Award_ for an original and innovative contribution to data protection.
+I collaborate with researchers across computer science, information science, tech policy, and privacy + labour law for broader societal and regulatory impact. My work has garnered interest amongst privacy, trade union, and AI ethics stakeholders across Europe and North America such as the _Future of Privacy Forum, French Data Protection Authority (CNIL), UC Berkeley Center for Long-Term Cybersecurity, NOYB_, and the _European Trade Union Institute_. My work has also won the _Council of Europe's 2024 Rodotà Award_ for an original and innovative contribution to data protection.
 
 Outside of research, I enjoy travelling, cycling, hanging out with my cat, and am a big foodie.
 
