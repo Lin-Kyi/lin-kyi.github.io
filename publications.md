@@ -41,11 +41,6 @@ _CHI'24 Extended Abstracts_ (for the CHI Doctoral Consortium)
 **Lin Kyi**, Sonia Chiasson, and Elizabeth Stobert  
 _Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS) '20_
 
-[## Book Chapters
-**Data Dispossession in GenAI: When Consent Isn't Enough**  
-**Lin Kyi**, M. Six Silberman, and Asia Biega  
-For _Volume II of Regulating AI Through Collective Bargaining_, a project led by the European Trade Union Institute (ETUI)]: # 
-
 ## Under Review
 **Redefining Creativity Safeguards in the Generative AI Ecosystem: A Social Value-Based Analysis**  
 Amruta Mahuli, **Lin Kyi**, and Asia Biega
