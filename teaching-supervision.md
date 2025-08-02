@@ -3,11 +3,11 @@ layout: default
 ---
 
 ## Supervision
+June 2025 - Present: Yu Yamashita (MSc student (Saarland University), co-supervised with Asia Biega and Changyang He)  
+
 April 2025 - Present: Berin Kaya (MSc thesis, Ruhr University Bochum)
 
 April 2025 - Present: Alexandra Oppermann (MSc thesis, Ruhr University Bochum)
-
-April 2023 - Present: Yu Yamashita (Intern at MPI-SP, co-supervised with Asia Biega and Changyang He)
 
 2022 - 2023: Sushil Shivakumar (Research Assistant at MPI-SP, co-supervised with Asia Biega)
 
