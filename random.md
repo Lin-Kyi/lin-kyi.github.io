@@ -2,14 +2,14 @@
 layout: default
 ---
 **How to Pronounce "Kyi"**
-* I prefer my last name be pronounced like "key," instead of the way it should be pronounced in Burmese. As Burmese is a tonal language, a different pronounciation of a word can completely change the meaning. In the case of my last name, this mispronounciation is not so flattering, as explained [here](https://school.teachingbooks.net/pronounce.cgi?pid=3560)
+* I prefer my last name be pronounced like "key," instead of the way it should be pronounced in Burmese. As Burmese is a tonal language, a different pronounciation of a word can completely change the meaning. In the case of my last name, this mispronounciation is not so flattering, as explained [here](https://school.teachingbooks.net/pronounce.cgi?pid=3560)  
 
 **Professional Materials**
 * I use [this](https://github.com/ankitsultana/researcher) Github pages template for my website
 * I use [this](https://www.overleaf.com/latex/examples/academic-cv-template/hvjpfjnyggbf) LaTeX template for my CV
 
 **PhDing in Germany**
-* I get asked often about what it's like to do a PhD in Germany (specifically at MPI-SP or with my supervisor). Unfortunately I don't have the capacity to do 1:1 calls for each request (unless you've got an offer here), but [this](https://andreas-zeller.info/2020/07/01/whats-it-like-to-be-a-phd-student-in-germany.html) blog post gives a good overview, and I would say the experience at MPI-SP is similar  
+* I get asked often about what it's like to do a PhD in Germany. Unfortunately I don't have the capacity to do 1:1 calls for each request (unless you've got an offer here), but [this](https://andreas-zeller.info/2020/07/01/whats-it-like-to-be-a-phd-student-in-germany.html) blog post gives a good overview, and I would say my experience at MPI-SP is similar  
 
 **Learning German**
 * If you're moving to Germany, forget what you've been told about how everyone speaks English and you don't need any German. You _need_ German to live here comfortably. I have okay-ish German, but am definitely not fluent (I would put myself at the A2/B1 level). The summer before moving to Bochum, I did a [Lingoda Sprint](https://www.lingoda.com/en/sprint/) (and I got my money back!). This intensive course, combined with living in Germany for the past 4 years has helped me get to an okay-ish level of German. However, I work in a fully English-speaking environment and have an international group of friends and colleagues, so is it admittedly difficult to become fluent  
