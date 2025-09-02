@@ -13,7 +13,7 @@ My work sits at the intersection of human-computer interaction, security and pri
 * Mitigate emerging challenges to consent (i.e., informing consent guidelines for GenAI data collection, and how power influences consent); and
 * Use insights from my previous threads of research to develop a collective consent framework to benefit users and workers
 
-My work has garnered interest amongst privacy, and AI ethics stakeholders across Europe and North America such as the _Future of Privacy Forum, French Data Protection Authority (CNIL), UC Berkeley Center for Long-Term Cybersecurity, and NOYB_. My work has also won the _Council of Europe's 2024 Rodotà Award_ for an original and innovative contribution to data protection.
+My work has garnered interest amongst privacy, and AI ethics stakeholders across Europe and North America such as the _Future of Privacy Forum, French Data Protection Authority (CNIL), UC Berkeley Center for Long-Term Cybersecurity, NOYB_, and the _European Trade Union Institute_. My work has also won the _Council of Europe's 2024 Rodotà Award_ for an original and innovative contribution to data protection.
 
 ## Education
 
