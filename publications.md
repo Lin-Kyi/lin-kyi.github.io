@@ -43,4 +43,10 @@ _Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS) '20
 
 ## Under Review
 **Redefining Creativity Safeguards in the Generative AI Ecosystem: A Social Value-Based Analysis**  
-Amruta Mahuli, **Lin Kyi**, and Asia Biega
+Amruta Mahuli, **Lin Kyi**, and Asia Biega 
+
+**From Clicks to Consensus: A Collective Consent Approach to Data Governance**  
+**Lin Kyi**, Paul Gölz, Robin Berjon, and Asia Biega 
+
+**When Feasibility of Fairness Audits Relies on Willingness to Donate Data: Examining User Acceptance of Multi-Party Computation Protocols for Fairness Monitoring**  
+Changyang He*, Parnian Jahangirirad, **Lin Kyi**, and Asia Biega
