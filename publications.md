@@ -7,6 +7,18 @@ My [Google Scholar](https://scholar.google.com/citations?user=ZUOm8gkAAAAJ&hl=en
 
 <small>In computer science, conferences are often the primary venue for publication and are critical for [scientific dissemination](https://homes.cs.washington.edu/~mernst/advice/conferences-vs-journals.html), undergoing multiple rounds of peer review. One may refer to the [CORE Rankings](https://www.core.edu.au/conference-portal) and the acceptance rate for a general idea of a conference's standing within the computing community.</small>
 
+**From Clicks to Consensus: A Collective Consent Approach to Data Governance**  
+**Lin Kyi**, Paul Gölz, Robin Berjon, and Asia Biega  
+_Under Review_
+
+**Redefining Creativity Safeguards in the Generative AI Ecosystem: A Social Value-Based Analysis**  
+Amruta Mahuli, **Lin Kyi**, and Asia Biega  
+_Under Review_
+
+**When Feasibility of Fairness Audits Relies on Willingness to Donate Data: Examining User Acceptance of Multi-Party Computation Protocols for Fairness Monitoring**  
+Changyang He, Parnian Jahangirirad, **Lin Kyi**, and Asia Biega  
+_Under Review_
+
 **Turning to Online Forums for Legal Information: A Case Study of GDPR’s Legitimate Interests** [pre-print](https://arxiv.org/abs/2506.04260)  
 **Lin Kyi**, Cristiana Santos, Sushil Ammanaghatta Shivakumar, Franziska Roesner, and Asia Biega  
 _Annual Privacy Forum 2025_ 
@@ -44,13 +56,3 @@ _CHI'24 Extended Abstracts_ (for the CHI Doctoral Consortium)
 **Individual Differences and Perceived Password Security Management** [PDF](https://wayworkshop.org/2020/papers/way2020-kyi.pdf)  
 **Lin Kyi**, Sonia Chiasson, and Elizabeth Stobert  
 _Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS) '20_
-
-## Under Review
-**Redefining Creativity Safeguards in the Generative AI Ecosystem: A Social Value-Based Analysis**  
-Amruta Mahuli, **Lin Kyi**, and Asia Biega 
-
-**From Clicks to Consensus: A Collective Consent Approach to Data Governance**  
-**Lin Kyi**, Paul Gölz, Robin Berjon, and Asia Biega 
-
-**When Feasibility of Fairness Audits Relies on Willingness to Donate Data: Examining User Acceptance of Multi-Party Computation Protocols for Fairness Monitoring**  
-Changyang He, Parnian Jahangirirad, **Lin Kyi**, and Asia Biega
