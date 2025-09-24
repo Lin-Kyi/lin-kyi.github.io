@@ -33,6 +33,10 @@ _ACM Conference on Human Factors in Computing Systems (CHI '23)_
 _APWG eCrime Symposium on Electronic Crime Research '22_
 
 ## Lightly Peer-Reviewed Papers
+**From Clicks to Consensus: A Collective Consent Approach to Online Privacy**
+**Lin Kyi,** Robin Berjon, Paul Gölz, and Asia Biega
+_Workshop on Algorithmic Collective Action at NeurIPS 2025_
+
 **Reimagining Online Consent for More Responsible and Human-Centred Data Collection** [PDF](https://dl.acm.org/doi/10.1145/3613905.3651129)  
 **Lin Kyi**   
 _CHI'24 Extended Abstracts_ (for the CHI Doctoral Consortium)
