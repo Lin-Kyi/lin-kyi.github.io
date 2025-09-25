@@ -8,7 +8,7 @@ layout: default
 
 Hi! My name is Lin (she/her). I am a PhD student at the Max Planck Institute for Security and Privacy (MPI-SP) where I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing Group. 
 
-My work sits at the intersection of security and privacy, human-computer interaction, and tech policy. I use empirical user research methods from human-computer interaction to research how we can move towards responsible data collection, centered on consent as a foundation for building ethical technologies. My research makes the following contributions:
+My work sits at the intersection of security and privacy, human-computer interaction, and tech policy. I use empirical user research methods from human-computer interaction to research how we can move towards more responsible data collection, centered on consent as a foundation for building ethical technologies. My research makes the following contributions:
 1. Improve and understand the consent ecosystem under the GDPR beyond the user interface;  
 2. Mitigate emerging challenges to consent (i.e., informing consent and responsible data collection guidelines for GenAI); and  
 3. Propose a collective data governance framework for consent based on insights from 1 and 2, which could give people more leverage over their data   
