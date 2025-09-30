@@ -7,15 +7,15 @@ My [Google Scholar](https://scholar.google.com/citations?user=ZUOm8gkAAAAJ&hl=en
 
 <small>In computer science, conferences are often the primary venue for publication and are critical for [scientific dissemination](https://homes.cs.washington.edu/~mernst/advice/conferences-vs-journals.html), with papers undergoing multiple rounds of peer review. One may refer to the [CORE Rankings](https://www.core.edu.au/conference-portal) and the acceptance rate for a general idea of a conference's standing within the computing community.</small>
 
-**From Clicks to Consensus: A Collective Consent Approach to Data Governance**  
+**A paper about collective consent for personal data governance**  
 **Lin Kyi**, Paul Gölz, Robin Berjon, and Asia Biega  
 _Under Review_
 
-**Redefining Creativity Safeguards in the Generative AI Ecosystem: A Social Value-Based Analysis**  
+**A paper about creativity safeguards in the GenAI ecosystem**  
 Amruta Mahuli, **Lin Kyi**, and Asia Biega  
 _Under Review_
 
-**When Feasibility of Fairness Audits Relies on Willingness to Donate Data: Examining User Acceptance of Multi-Party Computation Protocols for Fairness Monitoring**  
+**A paper about multi-party computation for fairness monitoring**  
 Changyang He, Parnian Jahangirirad, **Lin Kyi**, and Asia Biega  
 _Under Review_
 
