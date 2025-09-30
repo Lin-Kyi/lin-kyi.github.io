@@ -10,7 +10,7 @@ layout: default
 ## Reviewing
 **Program Committee**, _FAccT 2024, FAccT 2025_
 
-**Reviewer**, _CHI 2024, CHI 2025, CSCW 2025 Poster Track_
+**Reviewer**, _CHI 2026, CHI 2025, CSCW 2025 Poster Track, CHI 2024_
 
 ## Institutional Leadership
 2022 - 2024: **Co-founder and co-organizer, Spark(l)ing Science** (a student-run bi-weekly series of casual research talks and discussions within MPI-SP)
