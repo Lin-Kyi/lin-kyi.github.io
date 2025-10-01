@@ -8,9 +8,9 @@ layout: default
 **Student volunteer**, _FAccT 2022, WAY Workshop at USENIX SOUPS 2021_
 
 ## Reviewing
-**Program Committee**, _FAccT 2024, FAccT 2025_
+**Program Committee**, _FAccT (2024, 2025)_
 
-**Reviewer**, _CHI 2026, CHI 2025, CSCW 2025 Poster Track, CHI 2024_
+**Reviewer**, _CHI (2026, 2025, 2024), CSCW Poster Track (2025)_
 
 ## Institutional Leadership
 2022 - 2024: **Co-founder and co-organizer, Spark(l)ing Science** (a student-run bi-weekly series of casual research talks and discussions within MPI-SP)
