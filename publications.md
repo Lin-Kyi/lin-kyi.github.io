@@ -15,7 +15,7 @@ _Under Review_
 Amruta Mahuli, **Lin Kyi**, and Asia Biega  
 _Under Review_
 
-**A paper about multi-party computation for fairness monitoring**  
+**A paper about user acceptance of multi-party computation for fairness monitoring**  
 Changyang He, Parnian Jahangirirad, **Lin Kyi**, and Asia Biega  
 _Under Review_
 
