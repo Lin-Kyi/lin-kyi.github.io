@@ -47,7 +47,7 @@ _APWG eCrime Symposium on Electronic Crime Research '22_
 ## Book Chapters
 **Data Dispossession and GenAI: When Consent Isn't Enough**  
 **Lin Kyi***, M. Six Silberman*, Amruta Mahuli, and Asia Biega (* indicates equal contribution)  
-To appear in the European Trade Union Institute's book, _Regulating AI Through Collective Bargaining_ (expected publication in 2027)
+To appear in the European Trade Union Institute's book, _Volume II: Regulating AI Through Collective Bargaining: Key Issues_ (expected publication in 2027)
 
 ## Workshop Papers
 **From Clicks to Consensus: A Collective Consent Approach to Online Privacy**  
