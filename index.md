@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="lin.png">
 
-Hi! My name is Lin (she/her). I am a PhD student at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/) where I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing Group. Generally, I am interested in 
+Hi! My name is Lin (she/her). I am a PhD student at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/) where I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing Group. 
 
 My work sits at the intersection of security and privacy, human-computer interaction, and tech policy. I use empirical user research methods from human-computer interaction to research how we can move towards more responsible data collection, centered on consent as a foundation for building ethical technologies. My research makes the following contributions:  
 1) Improve and understand the consent ecosystem under the GDPR (beyond the user interface);  
