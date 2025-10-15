@@ -44,6 +44,11 @@ _ACM Conference on Human Factors in Computing Systems (CHI '23)_
 **Lin Kyi** and Elizabeth Stobert  
 _APWG eCrime Symposium on Electronic Crime Research '22_
 
+## Book Chapters
+**Data Dispossession and GenAI: When Consent Isn't Enough**  
+**Lin Kyi***, M. Six Silberman*, Amruta Mahuli, and Asia Biega  
+To appear in the European Trade Union Institute's book, _Regulating AI Through Collective Bargaining_ (expected publication in 2027)
+
 ## Workshop Papers
 **From Clicks to Consensus: A Collective Consent Approach to Online Privacy**  
 **Lin Kyi,** Robin Berjon, Paul Gölz, and Asia Biega  
