@@ -9,7 +9,8 @@ layout: default
 
 ## Workshop Co-organization
 **"Participatory Data Governance in Practice" at CHI 2026**   
-[Under Submission] Jovan Powar, Emma Kallina, Anna Ida Hudig, Jatinder Singh, **Lin Kyi**, Heleen Janssen, Genevieve Smith, and Renwen Zhang  
+Jovan Powar, Emma Kallina, Anna Ida Hudig, Jatinder Singh, **Lin Kyi**, Heleen Janssen, Genevieve Smith, and Renwen Zhang  
+_Under Submission _ 
 
 ## Reviewing
 **Program Committee**, _FAccT (2024, 2025)_
