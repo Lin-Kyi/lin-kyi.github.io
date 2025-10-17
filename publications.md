@@ -19,7 +19,7 @@ _Under Review_
 Changyang He, Parnian Jahangirirad, **Lin Kyi**, and Asia Biega  
 _Under Review_
 
-**Turning to Online Forums for Legal Information: A Case Study of GDPR’s Legitimate Interests** [pre-print](https://arxiv.org/abs/2506.04260)  
+**Turning to Online Forums for Legal Information: A Case Study of GDPR’s Legitimate Interests** [PDF](https://link.springer.com/chapter/10.1007/978-3-032-07574-1_7))  
 **Lin Kyi**, Cristiana Santos, Sushil Ammanaghatta Shivakumar, Franziska Roesner, and Asia Biega  
 _Annual Privacy Forum 2025_ 
 
