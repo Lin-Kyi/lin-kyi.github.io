@@ -8,9 +8,8 @@ layout: default
 **Student volunteer**, _FAccT 2022, WAY Workshop at USENIX SOUPS 2021_
 
 ## Workshop Co-organization
-**"Participatory Data Governance in Practice" (CHI 2026 Workshop)**   
-Jovan Powar, Emma Kallina, Anna Ida Hudig, Jatinder Singh, **Lin Kyi**, Heleen Janssen, Genevieve Smith, and Renwen Zhang  
-_Under Submission_  
+**"Participatory Data Governance in Practice" (Under submission, CHI 2026 Workshop)**   
+Jovan Powar, Emma Kallina, Anna Ida Hudig, Jatinder Singh, **Lin Kyi**, Heleen Janssen, Genevieve Smith, and Renwen Zhang   
 
 ## Reviewing
 **Program Committee**, _FAccT (2024, 2025)_
