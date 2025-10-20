@@ -15,7 +15,7 @@ My work sits at the intersection of security and privacy, human-computer interac
 
 My research has engaged privacy NGOs, regulators, industry, trade union, and AI ethics stakeholders across Europe and North America by challenging conventional notions of consent for data collection, showing that it must extend beyond privacy and data protection. I have presented and discussed my work with: the [Future of Privacy Forum](https://fpf.org/), [French Data Protection Authority (CNIL)](https://www.cnil.fr/en/), [UC Berkeley Center for Long-Term Cybersecurity](https://cltc.berkeley.edu/), the [European Trade Union Institute (ETUI)](https://www.etui.org/), the [Montreal AI Ethics Institute](https://montrealethics.ai/), the [JP Morgan AI Research Group](https://www.jpmorganchase.com/about/technology/research/ai), and [NOYB](https://noyb.eu/en). My work has also won the [Council of Europe's 2024 Rodotà Award](https://www.coe.int/en/web/data-protection/2024-rodot%C3%A0-award) for an original and innovative contribution to data protection.
 
-**I am on the job market this year for tenure-track and post doc positions in information and computer science departments! If you think I might be a good fit for an opportunity in your department or network, please reach out!**
+**I am on the job market this year for tenure-track and post doc positions in information and computer science! If you think I might be a good fit for an opportunity in your department or network, please reach out!**
 
 ## Education
 
