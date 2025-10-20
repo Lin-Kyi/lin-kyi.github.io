@@ -17,6 +17,8 @@ Jovan Powar, Emma Kallina, Anna Ida Hudig, Jatinder Singh, **Lin Kyi**, Heleen J
 **Reviewer**, _CHI (2026, 2025, 2024), CSCW Poster Track (2025)_
 
 ## Institutional Leadership
+2025 - Present: **Reviewer for the Institutional Ethics Review Board**, _MPI-SP_
+
 2022 - 2024: **Co-founder and co-organizer, Spark(l)ing Science** (a student-run bi-weekly series of casual research talks and discussions within MPI-SP)
 
 2023 - 2024: **PhD Representative for MPI-SP**, _Max Planck Society's PhDNet_
