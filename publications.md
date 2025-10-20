@@ -45,7 +45,7 @@ _ACM Conference on Human Factors in Computing Systems (CHI '23)_
 _APWG eCrime Symposium on Electronic Crime Research '22_
 
 ## Book Chapters
-**Data Dispossession and GenAI: When Consent Isn't Enough**  
+**GenAI and Data Dispossession: When Consent Isn't Enough**  
 **Lin Kyi**+, M. Six Silberman+, Amruta Mahuli, and Asia Biega (+ indicates equal contribution)  
 To appear in the European Trade Union Institute's book, _Volume II: Regulating AI Through Collective Bargaining: Key Issues_ (expected publication in 2027)
 
