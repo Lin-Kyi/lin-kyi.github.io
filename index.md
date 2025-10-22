@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="lin.png">
 
-Hi! My name is Lin (she/her). I am a PhD student at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/) where I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing Group. I am a recipient of the 2025 [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/) (in the Privacy, Safety, and Security research area). My work has also won the 2024 [Council of Europe Award in Data Protection](https://www.coe.int/en/web/data-protection/2024-rodot%C3%A0-award).
+Hi! My name is Lin (she/her). I am a PhD student at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/) where I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing Group. I am a recipient of the 2025 [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/) in Privacy, Safety, and Security. My work has also won the 2024 [Council of Europe Award in Data Protection](https://www.coe.int/en/web/data-protection/2024-rodot%C3%A0-award).
 
 The goal of my research is to advance responsible data collection practices centered on consent as a foundation for building ethical technologies. My work sits at the intersection of **security and privacy**, **human-computer interaction**, and **tech policy**, and I use qualitative and quantitative HCI research methods. My research makes the following contributions:  
 1. **Advance understanding of GDPR consent mechanisms beyond the user interface**: examining legal loopholes to consent, and requirements for informed consent;  
