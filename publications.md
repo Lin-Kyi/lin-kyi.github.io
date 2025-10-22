@@ -16,7 +16,7 @@ Amruta Mahuli, **Lin Kyi**, and Asia Biega
 _Under Review_
 
 **A paper about user acceptance of multi-party computation for fairness monitoring**  
-Changyang He, Parnian Jahangirirad, **Lin Kyi**, and Asia Biega  
+Changyang He+, Parnian Jahangirirad+, **Lin Kyi**, and Asia Biega (+ indicates equal contribution)    
 _Under Review_
 
 **Turning to Online Forums for Legal Information: A Case Study of GDPR’s Legitimate Interests** [PDF](https://link.springer.com/chapter/10.1007/978-3-032-07574-1_7)  
@@ -46,7 +46,7 @@ _APWG eCrime Symposium on Electronic Crime Research '22_
 
 ## Book Chapters
 **GenAI and Data Dispossession: When Consent Isn't Enough**  
-**Lin Kyi**+, M. Six Silberman+, Amruta Mahuli, and Asia Biega (+ indicates equal contribution)  
+**Lin Kyi**+, M. Six Silberman+, Amruta Mahuli, and Asia Biega   
 To appear in the European Trade Union Institute's book, _Volume II: Regulating AI Through Collective Bargaining: Key Issues_ (expected publication in 2027)
 
 ## Workshop Papers
