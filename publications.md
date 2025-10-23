@@ -21,7 +21,7 @@ _Under Review_
 
 **Turning to Online Forums for Legal Information: A Case Study of GDPR’s Legitimate Interests** [PDF](https://link.springer.com/chapter/10.1007/978-3-032-07574-1_7)  
 **Lin Kyi**, Cristiana Santos, Sushil Ammanaghatta Shivakumar, Franziska Roesner, and Asia Biega  
-_Annual Privacy Forum 2025_  
+_Annual Privacy Forum 2025_ (33% acceptance rate)    
 🏆 Best Paper Award  
 
 **Governance of Generative AI in Creative Work: Consent, Credit, Compensation, and Beyond** [PDF](https://dl.acm.org/doi/10.1145/3706598.3713799)  
