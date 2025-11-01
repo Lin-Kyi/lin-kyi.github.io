@@ -15,7 +15,7 @@ The goal of my research is to advance responsible data collection practices, cen
 
 My research has engaged regulators, industry, trade union, privacy NGOs, and AI ethics stakeholders across Europe and North America by challenging conventional notions of consent and responsible data collection, and showing that it must extend beyond security + privacy and data protection law. I have presented and discussed my work with: the [Future of Privacy Forum](https://fpf.org/), [French Data Protection Authority (CNIL)](https://www.cnil.fr/en/), [UC Berkeley Center for Long-Term Cybersecurity](https://cltc.berkeley.edu/), the [European Trade Union Institute (ETUI)](https://www.etui.org/), the [Montreal AI Ethics Institute](https://montrealethics.ai/), the [JP Morgan AI Research Group](https://www.jpmorganchase.com/about/technology/research/ai), and [NOYB](https://noyb.eu/en).   
 
-**I am on the job market this academic year for tenure-track and post doc positions in information and computer science. If you think I might be a good fit for an opportunity in your department or network, please reach out!**
+**I am on the job market this academic year for tenure-track faculty and post doc positions in information and computer science. If you think I might be a good fit for an opportunity in your department or network, please reach out!**
 
 ## Education
 
