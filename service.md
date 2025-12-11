@@ -12,7 +12,7 @@ layout: default
 Jovan Powar, Emma Kallina, Anna Ida Hudig, Jatinder Singh, **Lin Kyi**, Heleen Janssen, Genevieve Smith, and Renwen Zhang   
 
 ## Reviewing
-**Program Committee**, _Symposium on Usable Security and Privacy (USEC) 2026, FAccT 2024, 2025_
+**Program Committee**, _USEC 2026, FAccT 2024, 2025_
 
 **Reviewer**, _CHI 2026, 2025, 2024, CSCW Poster Track 2025_
 
