@@ -35,7 +35,7 @@ _APWG eCrime Symposium on Electronic Crime Research '22_
 
 ## Book Chapters
 **GenAI and Data Dispossession: When Consent Isn't Enough**  
-**Lin Kyi**+, M. Six Silberman+, Amruta Mahuli, and Asia Biega   
+**Lin Kyi**+, M. Six Silberman+, Amruta Mahuli, and Asia Biega (+ indicates equal contribution)
 To appear in the European Trade Union Institute's book, _Volume II: Regulating AI Through Collective Bargaining: Key Issues_ (expected publication in 2027)
 
 ## Workshop Papers
@@ -51,21 +51,21 @@ _CHI'24 Extended Abstracts_ (for the CHI Doctoral Consortium)
 **Lin Kyi**, Sonia Chiasson, and Elizabeth Stobert  
 _Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS) '20_
 
-## Papers Under Review
+## Papers Under Review  
 **A paper about collective consent for personal data governance**  
 **Lin Kyi**, Paul Gölz, Robin Berjon, and Asia Biega  
-_Under Review_
+_Under Review_  
 
 **A paper about creativity safeguards in the GenAI ecosystem**  
 Amruta Mahuli, **Lin Kyi**, and Asia Biega  
-_Under Review_
+_Under Review_  
 
 **A paper about the potential consequences of granting copyrights to GenAI outputs**  
 Amruta Mahuli, **Lin Kyi**, Wisdom Obinna, Muhammad Bilal Zafar, Elissa Redmiles, and Asia Biega  
-_Under Review_
+_Under Review_  
 
 **A paper about user acceptance of multi-party computation for fairness monitoring**  
-Changyang He+, Parnian Jahangirirad+, **Lin Kyi**, and Asia Biega (+ indicates equal contribution)    
+Changyang He+, Parnian Jahangirirad+, **Lin Kyi**, and Asia Biega     
 _Under Review_
 
 **A paper about online platform perspectives on digital well-being**  
