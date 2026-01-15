@@ -41,7 +41,7 @@ To appear in the European Trade Union Institute's book, _Volume II: Regulating A
 ## Workshop Papers
 **From Clicks to Consensus: A Collective Consent Approach to Online Privacy**  
 **Lin Kyi,** Robin Berjon, Paul Gölz, and Asia Biega  
-_Forthcoming: Workshop on Algorithmic Collective Action (at NeurIPS 2025)_  
+_Workshop on Algorithmic Collective Action (at NeurIPS 2025)_  
 
 **Reimagining Online Consent for More Responsible and Human-Centred Data Collection** [PDF](https://dl.acm.org/doi/10.1145/3613905.3651129)  
 **Lin Kyi**   
