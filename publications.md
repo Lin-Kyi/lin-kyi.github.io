@@ -7,6 +7,10 @@ My [Google Scholar](https://scholar.google.com/citations?user=ZUOm8gkAAAAJ&hl=en
 
 <small>In computer science, conferences are often the primary venue for publication and are critical for [scientific dissemination](https://homes.cs.washington.edu/~mernst/advice/conferences-vs-journals.html), with papers undergoing multiple rounds of peer review. One may refer to the [CORE Rankings](https://www.core.edu.au/conference-portal) and the acceptance rate for a general idea of a conference's standing within the computing community.</small>
 
+**From Clicks to Consensus: Collective Consent Assemblies for Data Governance**   
+**Lin Kyi**, Paul Gölz, Robin Berjon, and Asia Biega  
+_Conditionally accepted, ACM Conference on Human Factors in Computing Systems (CHI '26)_     
+
 **Turning to Online Forums for Legal Information: A Case Study of GDPR’s Legitimate Interests** [PDF](https://link.springer.com/chapter/10.1007/978-3-032-07574-1_7)  
 **Lin Kyi**, Cristiana Santos, Sushil Ammanaghatta Shivakumar, Franziska Roesner, and Asia Biega  
 _Annual Privacy Forum 2025_ (33% acceptance rate)    
@@ -52,10 +56,6 @@ _CHI'24 Extended Abstracts_ (for the CHI Doctoral Consortium)
 _Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS) '20_
 
 ## Papers Under Review  
-**A paper about collective consent for personal data governance**  
-**Lin Kyi**, Paul Gölz, Robin Berjon, and Asia Biega  
-_Under Review_  
-
 **A paper about creativity safeguards in the GenAI ecosystem**  
 Amruta Mahuli, **Lin Kyi**, and Asia Biega  
 _Under Review_  
