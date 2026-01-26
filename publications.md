@@ -7,7 +7,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=ZUOm8gkAAAAJ&hl=en
 
 <small>In computer science, conferences are often the primary venue for publication and are critical for [scientific dissemination](https://homes.cs.washington.edu/~mernst/advice/conferences-vs-journals.html), with papers undergoing multiple rounds of peer review. One may refer to the [CORE Rankings](https://www.core.edu.au/conference-portal) and the acceptance rate for a general idea of a conference's standing within the computing community.</small>
 
-**From Clicks to Consensus: Collective Consent Assemblies for Data Governance**   
+**From Clicks to Consensus: Collective Consent Assemblies for Data Governance** [pre-print](http://arxiv.org/abs/2601.16752)    
 **Lin Kyi**, Paul Gölz, Robin Berjon, and Asia Biega  
 _Conditionally accepted, ACM Conference on Human Factors in Computing Systems (CHI '26)_  
 
