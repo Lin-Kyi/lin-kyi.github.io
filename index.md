@@ -31,7 +31,7 @@ Thesis: “End User Mental Models of Social Engineering Attacks” [PDF](https:/
 **BA (Honours) in Psychology at Queen’s University** (Kingston, Ontario, Canada)  
 2015 - 2019  
 
-## Work Experience
+## Relevant Work Experience
 
 **Visiting Researcher at University of Oxford** (Oxford, UK)  
 Hosted by the Human-Centred Computing Group, Department of Computer Science  
