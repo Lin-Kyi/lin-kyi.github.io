@@ -12,5 +12,5 @@ layout: default
 * The summer before moving to Bochum, I did a [Lingoda Sprint](https://www.lingoda.com/en/sprint/) (and I got my money back!). This intensive course, combined with living in Germany for the past 4 years has helped me get to a survival level of German. However, I work in a fully English-speaking environment and have an international group of friends and colleagues, so is it admittedly difficult to become fluent. Your institute or university will usually offer some free language courses, but these may not be enough and sometimes coincide with work time, so I went the self-learning route:    
 * Other German-learning resources I found helpful (with content that is interesting, i,e., not stuff for children)
    * [Easy German](https://www.youtube.com/@EasyGerman) YouTube channel
-   * I tried out [Babbel's live classes](https://www.babbel.com/) for 3 months . However, as there was no risk of losing my money if I missed a class, I found it difficult to keep myself accountable to showing up for these classes  
+   * I tried out [Babbel's live classes](https://www.babbel.com/) for 3 months but did not extend my subscription     
    * [DW's slowly spoken news](https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332)
