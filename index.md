@@ -42,5 +42,3 @@ September - December 2023
 
 **User Experience Research Intern at the Government of Canada** (Ottawa, ON)  
 May - August 2020
-
-Though not as relevant to my academic profile these days, I was a research assistant in a psychology lab for 3 years, worked in my university's residences in various capacities for 4 years, worked as a summer camp counsellor for a couple of summers, was a grocery store cashier, and also worked on a vegetable farm before my PhD. Lessons from experiences have helped guide my own research journey and mentorship :)
