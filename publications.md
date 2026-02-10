@@ -9,7 +9,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=ZUOm8gkAAAAJ&hl=en
 **Lin Kyi**, Paul Gölz, Robin Berjon, and Asia Biega  
 _Conditionally accepted, ACM Conference on Human Factors in Computing Systems (CHI '26)_  
 
-**When Feasibility of Fairness Audits Relies on Willingness to Share Data: Examining User Acceptance of Multi-Party Computation Protocols for Fairness Monitoring**  
+**When Feasibility of Fairness Audits Relies on Willingness to Share Data: Examining User Acceptance of Multi-Party Computation Protocols for Fairness Monitoring** [pre-print](https://arxiv.org/abs/2602.01846)   
 Changyang He+, Parnian Jahangirirad+, **Lin Kyi**, and Asia Biega (+ indicates equal contribution)    
 _Conditionally accepted, ACM Conference on Human Factors in Computing Systems (CHI '26)_  
 
