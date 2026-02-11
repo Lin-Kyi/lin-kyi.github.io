@@ -6,9 +6,11 @@ layout: default
 
 <img class="profile-picture" src="photo.png">
 
-Hi! My name is Lin (she/her). I am a PhD student at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/) where I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing Group. I am supported by the 2025 [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/) (in the Privacy, Safety, and Security research area). My papers have received the 2024 [Council of Europe Award in Data Protection](https://www.coe.int/en/web/data-protection/2024-rodot%C3%A0-award) and a Best Paper Award at the 2025 [Annual Privacy Forum](https://privacyforum.eu/).  My research has also engaged regulators, industry, trade union, privacy NGOs, and AI ethics stakeholders across North America and Europe.   
+Hi! My name is Lin (she/her). I am a PhD student at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/) where I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing Group. 
 
-The goal of my research is to advance digital rights, centred on consent as a foundation for building ethical technologies and giving users data autonomy. My work sits at the intersection of **security and privacy**, **human-computer interaction**, and **tech policy**. I use qualitative and quantitative HCI research methods, and primarily publish at top-tier computing venues (CHI, USENIX Security) and venues for regulators and policymakers. 
+I am supported by the 2025 [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/) (in the Privacy, Safety, and Security research area). My papers have received the 2024 [Council of Europe Award in Data Protection](https://www.coe.int/en/web/data-protection/2024-rodot%C3%A0-award) and a Best Paper Award at the 2025 [Annual Privacy Forum](https://privacyforum.eu/).  My research has also engaged regulators, industry, trade unions, privacy NGOs, and AI ethics stakeholders across North America and Europe.   
+
+The goal of my research is to advance digital rights, centred on consent as a foundation for building ethical technologies and giving users data autonomy. I am working to reimagine online consent, thinking of how to move beyond consent notices to consent that truly gives users data agency, and can be applied broadly to different data governance scenarios. My work sits at the intersection of **security and privacy**, **human-computer interaction**, and **tech policy**. I use qualitative and quantitative HCI research methods, and primarily publish at top-tier computing venues (CHI, USENIX Security) and venues for regulators and policymakers. 
 
 ## Education
 
