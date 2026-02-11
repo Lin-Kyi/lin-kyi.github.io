@@ -13,8 +13,7 @@ The goal of my research is to advance digital rights, centred on consent as a fo
 ## Education
 
 **PhD in Computer Science at the Max Planck Institute for Security and Privacy (MPI-SP)** (Bochum, Germany)  
-Supervisor: Asia Biega  
-Thesis topic: Reimagining Online Consent for Responsible, Human-Centric and Sustainable Data Collection  
+Supervisor: Asia Biega    
 September 2021 - Present  
 
 **MA in Human-Computer Interaction at Carleton University** (Ottawa, Ontario, Canada)  
