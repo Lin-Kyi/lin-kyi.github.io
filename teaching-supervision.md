@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Supervision
-June 2025 - Present: Yu Yamashita (MSc student at Saarland University, co-supervised with Changyang He)  
+June 2025 - Feb. 2026: Yu Yamashita (MSc student at Saarland University, co-supervised with Changyang He)  
 
 April 2025 - Oct. 2025: Berin Kaya (MSc thesis, Ruhr University Bochum)  
 Thesis: _How Users Reason About Purpose Compatibility_  
