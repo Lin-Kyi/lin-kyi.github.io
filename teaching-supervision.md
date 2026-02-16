@@ -4,6 +4,7 @@ layout: default
 
 ## Supervision
 June 2025 - Feb. 2026: Yu Yamashita (MPI-SP intern, MSc student at Saarland University)  
+Student-led paper is currently under review  
 
 April 2025 - Oct. 2025: Berin Kaya (MSc thesis, Ruhr University Bochum)  
 Thesis: _How Users Reason About Purpose Compatibility_  
