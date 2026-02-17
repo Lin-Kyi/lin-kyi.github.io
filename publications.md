@@ -35,7 +35,7 @@ _USENIX Security '24_
 _ACM Conference on Human Factors in Computing Systems (CHI '23)_  
 🏆 Awarded the Council of Europe's 2024 Stefano Rodotà Award in Data Protection
 
-**‘I don’t really give them piece of mind’: User Perceptions of Social Engineering Attacks** [PDF](https://ieeexplore.ieee.org/abstract/document/10142113)  
+**‘I don’t really give them peace of mind’: User Perceptions of Social Engineering Attacks** [PDF](https://ieeexplore.ieee.org/abstract/document/10142113)  
 **Lin Kyi** and Elizabeth Stobert  
 _APWG eCrime Symposium on Electronic Crime Research '22_
 
