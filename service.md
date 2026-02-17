@@ -12,9 +12,14 @@ layout: default
 Jovan Powar, Emma Kallina, Anna Ida Hudig, Jatinder Singh, **Lin Kyi**, Heleen Janssen, Genevieve Smith, and Renwen Zhang   
 
 ## Reviewing
-**Program Committee**, _USEC 2026, FAccT 2024, 2025_
+**Program Committee**
+* USEC 2026
+* FAccT 2024, 2025
 
-**External Reviewer**, _DIS 2026, CHI 2026, CHI 2025, CSCW Poster Track 2025, CHI 2024_
+**External Reviewer**
+* DIS 2026
+* CHI 2026, 2025, 2024
+* CSCW Poster Track 2025
 
 ## Institutional Leadership
 2025 - Present: **Reviewer for the Institutional Ethics Review Board**, _MPI-SP_
