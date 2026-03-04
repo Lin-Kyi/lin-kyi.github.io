@@ -2,8 +2,8 @@
 layout: default
 ---
 **Professional Materials**
-* I use [this](https://github.com/ankitsultana/researcher) Github pages template for my website
-* I use [this](https://www.overleaf.com/latex/examples/academic-cv-template/hvjpfjnyggbf) LaTeX template for my CV
+* I adapted [this](https://github.com/ankitsultana/researcher) template for my website
+* I adapted [this](https://github.com/linguistsherry/cvtemplate) template for my CV
 
 **PhDing in Germany**
 * I get asked often about what it's like to do a PhD in Germany. [This](https://andreas-zeller.info/2020/07/01/whats-it-like-to-be-a-phd-student-in-germany.html) blog post gives a good overview, and I would say my experience at MPI-SP is similar  
