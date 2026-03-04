@@ -14,3 +14,6 @@ layout: default
    * [Easy German](https://www.youtube.com/@EasyGerman) YouTube channel
    * I tried out [Babbel's live classes](https://www.babbel.com/) for 3 months but did not extend my subscription     
    * [DW's slowly spoken news](https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332)
+
+**Google PhD Fellowship Materials**
+I was very fortunate to be selected for the 2025 Google PhD Fellowship. I am happy to share my research proposal in case this may be helpful, just shoot me an email!
