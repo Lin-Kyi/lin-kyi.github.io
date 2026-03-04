@@ -7,11 +7,11 @@ My [Google Scholar](https://scholar.google.com/citations?user=ZUOm8gkAAAAJ&hl=en
 
 **From Clicks to Consensus: Collective Consent Assemblies for Data Governance** [pre-print](http://arxiv.org/abs/2601.16752)    
 **Lin Kyi**, Paul Gölz, Robin Berjon, and Asia Biega  
-_Conditionally accepted, ACM Conference on Human Factors in Computing Systems (CHI '26)_  
+_ACM Conference on Human Factors in Computing Systems (CHI '26)_  
 
 **When Feasibility of Fairness Audits Relies on Willingness to Share Data: Examining User Acceptance of Multi-Party Computation Protocols for Fairness Monitoring** [pre-print](https://arxiv.org/abs/2602.01846)   
 Changyang He+, Parnian Jahangirirad+, **Lin Kyi**, and Asia Biega (+ indicates equal contribution)    
-_Conditionally accepted, ACM Conference on Human Factors in Computing Systems (CHI '26)_  
+_ACM Conference on Human Factors in Computing Systems (CHI '26)_  
 
 **Turning to Online Forums for Legal Information: A Case Study of GDPR’s Legitimate Interests** [PDF](https://link.springer.com/chapter/10.1007/978-3-032-07574-1_7)  
 **Lin Kyi**, Cristiana Santos, Sushil Ammanaghatta Shivakumar, Franziska Roesner, and Asia Biega  
