@@ -25,6 +25,3 @@ Thesis: “End User Mental Models of Social Engineering Attacks” [PDF](https:/
 **BA (Honours) in Psychology at Queen’s University** (Kingston, Ontario, Canada)  
 2015 - 2019     
 2023 - 2024 
-
-**User Experience Research Intern at the Government of Canada** (Ottawa, ON)  
-May - August 2020
