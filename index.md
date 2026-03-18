@@ -19,9 +19,6 @@ Supervisor: Asia Biega
 September 2021 - Present  
 
 **MA in Human-Computer Interaction at Carleton University** (Ottawa, Ontario, Canada)  
-Thesis: “End User Mental Models of Social Engineering Attacks” [PDF](https://curve.carleton.ca/system/files/etd/2b0397df-0447-481a-bedb-3cdfed153cd3/etd_pdf/20586d0098ccea7701d7ce1fe928acd5/kyi-endusermentalmodelsofsocialengineeringattacks.pdf)  
-2019 - 2021  
+Thesis: “End User Mental Models of Social Engineering Attacks” [PDF](https://curve.carleton.ca/system/files/etd/2b0397df-0447-481a-bedb-3cdfed153cd3/etd_pdf/20586d0098ccea7701d7ce1fe928acd5/kyi-endusermentalmodelsofsocialengineeringattacks.pdf)   
 
 **BA (Honours) in Psychology at Queen’s University** (Kingston, Ontario, Canada)  
-2015 - 2019     
-2023 - 2024 
