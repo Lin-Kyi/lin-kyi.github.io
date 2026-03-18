@@ -51,21 +51,8 @@ _Workshop on Algorithmic Collective Action (at NeurIPS 2025)_
 
 **Reimagining Online Consent for More Responsible and Human-Centred Data Collection** [PDF](https://dl.acm.org/doi/10.1145/3613905.3651129)  
 **Lin Kyi**   
-_CHI'24 Extended Abstracts_ (for the CHI Doctoral Consortium)
+_CHI'24 Extended Abstracts_ (for the CHI Doctoral Consortium)  
 
 **Individual Differences and Perceived Password Security Management** [PDF](https://wayworkshop.org/2020/papers/way2020-kyi.pdf)  
 **Lin Kyi**, Sonia Chiasson, and Elizabeth Stobert  
-_Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS) '20_
-
-## Papers Under Review  
-**A paper about creativity safeguards in the GenAI ecosystem**  
-Amruta Mahuli, **Lin Kyi**, and Asia Biega  
-_Under Review_  
-
-**A paper about the potential consequences of granting copyrights to GenAI outputs**  
-Amruta Mahuli, **Lin Kyi**, Wisdom Obinna, Muhammad Bilal Zafar, Elissa Redmiles, and Asia Biega  
-_Under Review_  
-
-**A paper about online platform perspectives on digital well-being**  
-Yu Yamashita, **Lin Kyi**, Changyang He, Ankolika De, Maria Antoniak, Yixin Zou, and Asia Biega   
-_Under Review_
+_Who Are You?! Adventures in Authentication (WAY) Workshop (at USENIX SOUPS) '20_  
