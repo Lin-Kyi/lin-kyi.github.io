@@ -17,6 +17,7 @@ Jovan Powar, Emma Kallina, Anna Ida Hudig, Jatinder Singh, **Lin Kyi**, Heleen J
 * FAccT 2024, 2025
 
 **External Reviewer**
+* ICML 2026 Ethics Reviewer
 * DIS 2026
 * CHI 2026, 2025, 2024
 * CSCW Poster Track 2025
