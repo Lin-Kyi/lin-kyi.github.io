@@ -4,7 +4,6 @@ layout: default
 
 ## Supervision
 June 2025 - Feb. 2026: Yu Yamashita (MPI-SP intern, MSc student at Saarland University)  
-Student-led paper is currently under review  
 
 April 2025 - Oct. 2025: Berin Kaya (MSc thesis, Ruhr University Bochum)  
 Thesis: _How Users Reason About Purpose Compatibility_  
@@ -13,7 +12,6 @@ April 2025 - Oct. 2025: Alexandra Oppermann (MSc thesis, Ruhr University Bochum)
 Thesis: _User Acceptance of Alternative Forms of Data Collection_  
 
 2022 - 2023: Sushil Shivakumar (Research Assistant at MPI-SP)  
-Co-author on our [CHI'23](https://dl.acm.org/doi/pdf/10.1145/3544548.3580637?trk=public_post_comment-text) and [APF'25](https://arxiv.org/abs/2506.04260) papers
 
 ## Teaching
 Guest Lecturer: **Privacy, Data Governance, and Usability** (MSc-level course)  
