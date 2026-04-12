@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Invited Talks
-**Reimagining Online Consent: Collective Consent for Responsible, Human-Centric, and Sustainable Data Collection**  
+**Collective Consent for Responsible, Human-Centric, and Sustainable Data Collection**  
 _Max Planck Institute for Security and Privacy Symposium on Challenges in a Digitalised Society_, July 2025
 
 **'It doesn’t tell me anything about how my data is used': User Perceptions of Data Collection Purposes**  
