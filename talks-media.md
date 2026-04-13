@@ -3,6 +3,9 @@ layout: default
 ---
 
 ## Invited Talks
+**Reimagining Online Consent: Towards Building and Governing Ethical Technologies from Within**  
+_Yale University (Digital Ethics Center), May 2026_
+
 **Collective Consent for Responsible, Human-Centric, and Sustainable Data Collection**  
 _Max Planck Institute for Security and Privacy Symposium on Challenges in a Digitalised Society_, July 2025
 
