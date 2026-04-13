@@ -5,11 +5,11 @@ layout: default
 ## Peer-Reviewed Publications 
 My [Google Scholar](https://scholar.google.com/citations?user=ZUOm8gkAAAAJ&hl=en)  
 
-**From Clicks to Consensus: Collective Consent Assemblies for Data Governance** [pre-print](http://arxiv.org/abs/2601.16752)    
+**From Clicks to Consensus: Collective Consent Assemblies for Data Governance** [PDF](https://dl.acm.org/doi/10.1145/3772318.3790690)    
 **Lin Kyi**, Paul Gölz, Robin Berjon, and Asia Biega  
 _ACM Conference on Human Factors in Computing Systems (CHI '26)_  
 
-**When Feasibility of Fairness Audits Relies on Willingness to Share Data: Examining User Acceptance of Multi-Party Computation Protocols for Fairness Monitoring** [pre-print](https://arxiv.org/abs/2602.01846)   
+**When Feasibility of Fairness Audits Relies on Willingness to Share Data: Examining User Acceptance of Multi-Party Computation Protocols for Fairness Monitoring** [PDF](https://dl.acm.org/doi/10.1145/3772318.3791802)   
 Changyang He+, Parnian Jahangirirad+, **Lin Kyi**, and Asia Biega (+ indicates equal contribution)    
 _ACM Conference on Human Factors in Computing Systems (CHI '26)_  
 
