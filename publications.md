@@ -6,7 +6,7 @@ layout: default
 My [Google Scholar](https://scholar.google.com/citations?user=ZUOm8gkAAAAJ&hl=en)  
 
 **Defining the Problem, Setting the Standard? Platform Narratives and Interventions for Digital Well-Being**   
-Yu Yamashita, **Lin Kyi**, Changyang He, Ankolika De, Maria Antoniak, Yixin Zou, Asia Biega   
+Yu Yamashita, **Lin Kyi**, Changyang He, Ankolika De, Maria Antoniak, Yixin Zou, and Asia Biega   
 _To appear, ACM Conference on Fairness, Accountability, and Transparency (FAccT '26)_  
 
 **From Clicks to Consensus: Collective Consent Assemblies for Data Governance** [PDF](https://dl.acm.org/doi/10.1145/3772318.3790690)    
