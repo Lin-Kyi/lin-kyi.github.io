@@ -49,6 +49,10 @@ _APWG eCrime Symposium on Electronic Crime Research '22_
 To appear in the European Trade Union Institute's book, _Volume II: Regulating AI Through Collective Bargaining: Key Issues_ (expected publication in 2027)
 
 ## Workshop Papers
+**Participatory Data Governance in Practice**   
+Jovan Powar, Emma Marlene Kallina, Anna Ida Hudig, Jatinder Singh, **Lin Kyi**, Heleen Janssen, Genevieve Smith, Renwen Zhang   
+_CHI 2026 Workshop_   
+
 **From Clicks to Consensus: A Collective Consent Approach to Online Privacy**  
 **Lin Kyi,** Robin Berjon, Paul Gölz, and Asia Biega  
 _Workshop on Algorithmic Collective Action (at NeurIPS 2025)_  
