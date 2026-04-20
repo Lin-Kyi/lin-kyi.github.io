@@ -44,8 +44,8 @@ _ACM Conference on Human Factors in Computing Systems (CHI '23)_
 _APWG eCrime Symposium on Electronic Crime Research '22_
 
 ## Book Chapters
-**GenAI and Data Dispossession: When Consent Isn't Enough**  
-**Lin Kyi**+, M. Six Silberman+, Amruta Mahuli, and Asia Biega  
+**Governing generative AI in the workplace: A view from computer science and law**  
+**Lin Kyi**, Amruta Mahuli, M. Six Silberman, and Asia Biega  
 To appear in the European Trade Union Institute's book, _Volume II: Regulating AI Through Collective Bargaining: Key Issues_ (expected publication in 2027)
 
 ## Workshop Papers
