@@ -19,8 +19,8 @@ Jovan Powar, Emma Kallina, Anna Ida Hudig, Jatinder Singh, **Lin Kyi**, Heleen J
 **External Reviewer**
 * ICML 2026 Ethics Reviewer
 * DIS 2026
+* CSCW Poster Track 2025  
 * CHI 2026, 2025, 2024
-* CSCW Poster Track 2025
 
 ## Institutional Leadership
 2025 - Present: **Reviewer for the Institutional Ethics Review Board**, _MPI-SP_
