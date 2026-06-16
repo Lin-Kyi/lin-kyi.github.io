@@ -16,7 +16,7 @@ My work sits at the intersection of **security and privacy**, **human-computer i
 
 **PhD in Computer Science at the Max Planck Institute for Security and Privacy (MPI-SP)** (Bochum, Germany)  
 Supervisor: Asia Biega    
-September 2021 - Present  
+September 2021 - September 2026 (expected)  
 
 **MA in Human-Computer Interaction at Carleton University** (Ottawa, Ontario, Canada)  
 Thesis: “End User Mental Models of Social Engineering Attacks” [PDF](https://curve.carleton.ca/system/files/etd/2b0397df-0447-481a-bedb-3cdfed153cd3/etd_pdf/20586d0098ccea7701d7ce1fe928acd5/kyi-endusermentalmodelsofsocialengineeringattacks.pdf)   
