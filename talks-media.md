@@ -3,6 +3,9 @@ layout: default
 ---
 
 ## Invited Talks
+**Ethical AI starts with better consent foundations: Insights from the GDPR**. 
+_University of Toronto, Faculty of Information (Hosts: Vera Khovanskaya and Eric Baumer),_ July 2026  
+
 **Reimagining Online Consent: Towards Building and Governing Ethical Technologies from Within**  
 _Yale University (Digital Ethics Center),_ May 2026
 
