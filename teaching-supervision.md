@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Supervision
-June 2026 - Present: Shreya Kochar (Visitor, MPI-SP)  
+June 2026 - Present: Shreya Kochar (Visitor, MPI-SP & Pre-doctoral Research Fellow, CMU)  
 
 June 2025 - Feb. 2026: Yu Yamashita (MPI-SP intern, MSc student at Saarland University)  
 
