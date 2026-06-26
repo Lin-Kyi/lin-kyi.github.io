@@ -5,7 +5,7 @@ layout: default
 ## Peer-Reviewed Publications 
 My [Google Scholar](https://scholar.google.com/citations?user=ZUOm8gkAAAAJ&hl=en)  
 
-**Defining the Problem, Setting the Standard? Platform Narratives and Interventions for Digital Well-Being**   
+**Defining the Problem, Setting the Standard? Platform Narratives and Interventions for Digital Well-Being** [PDF](https://dl.acm.org/doi/10.1145/3805689.3812409)    
 Yu Yamashita, **Lin Kyi**, Changyang He, Ankolika De, Maria Antoniak, Yixin Zou, and Asia Biega   
 _To appear, ACM Conference on Fairness, Accountability, and Transparency (FAccT '26)_  
 
