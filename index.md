@@ -12,7 +12,7 @@ I am supported by the 2025 [Google PhD Fellowship](https://research.google/progr
 
 My work sits at the intersection of **security and privacy**, **human-computer interaction**, and **tech policy**. I use qualitative and quantitative HCI research methods, and primarily publish in computing venues (CHI, USENIX Security, FAccT).  
 
-In December, I will be moving down to Switzerland, where I'll be a postdoc at EPFL with Miranda Wei! I'm looking forward to the many new research and outdoor adventures in Switzerland!  
+Starting this December, I will be a postdoc at EPFL with Miranda Wei! I'm looking forward to the many new research and outdoor adventures in Switzerland!  
 
 ## Education
 
