@@ -12,8 +12,6 @@ I am supported by the 2025 [Google PhD Fellowship](https://research.google/progr
 
 My work sits at the intersection of **security and privacy**, **human-computer interaction**, and **tech policy**. I use qualitative and quantitative HCI research methods, and primarily publish in computing venues (CHI, USENIX Security, FAccT).  
 
-Starting this December, I will be a postdoc at EPFL, working with Miranda Wei! I'm looking forward to the many new research and outdoor adventures in Switzerland!  
-
 ## Education
 
 **PhD in Computer Science at the Max Planck Institute for Security and Privacy (MPI-SP)** (Bochum, Germany)  
