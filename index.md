@@ -16,7 +16,7 @@ My work sits at the intersection of **security and privacy**, **human-computer i
 
 **PhD in Computer Science at the Max Planck Institute for Security and Privacy (MPI-SP)** (Bochum, Germany)  
 Supervisor: Asia Biega   
-Dissertation: "Reimagining Online Consent: Towards Building and Governing Ethical Technologies from Within" (grade: summa cum laude). 
+Dissertation: "Reimagining Online Consent: Towards Building and Governing Ethical Technologies from Within" (grade: summa cum laude)   
 September 2021 - August 2026  
 
 **MA in Human-Computer Interaction at Carleton University** (Ottawa, Ontario, Canada)  
