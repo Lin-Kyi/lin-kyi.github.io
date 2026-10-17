@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.png">
 
-Hello! My name is Lin (she/her). I am an incoming postdoc at [EPFL](https://www.epfl.ch/en/), joining [Miranda Wei](https://mirandawei.com/)'s group, starting in December. I was recently a PhD student at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/), where I was supervised by [Asia Biega](https://asiabiega.github.io/). My research is focused on building stronger foundations for online consent in the age of AI to promote better user privacy, safety, and data autonomy.    
+Hello! My name is Lin (she/her). I am an incoming postdoc at [EPFL](https://www.epfl.ch/en/), joining [Miranda Wei](https://mirandawei.com/)'s group in December. I recently completed my PhD at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/) under the supervision of [Asia Biega](https://asiabiega.github.io/). My research is focused on building stronger foundations for online consent in the age of AI to promote better user privacy, safety, and data autonomy.    
 
 I am a recipient of the 2025 [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/) (in the Privacy, Safety, and Security research area). My papers have received awards, including the 2024 [Council of Europe Award in Data Protection](https://www.coe.int/en/web/data-protection/2024-rodot%C3%A0-award), and best paper. My research has also engaged regulators, industry, trade unions, privacy NGOs, and AI ethics stakeholders across North America and Europe.  
 
