@@ -3,6 +3,9 @@ layout: default
 ---
 
 ## Conference and Workshop Organization
+**"HCI × Law: Building Bridges for Collaboration" (CHI 2027 Meetup)**   
+Ritika Gairola, Johanna Gunawan, Colin M. Gray, Jake Chanenson, Jules Rochielle Sievert, Amruta Mahuli, **Lin Kyi**, and Shruthi Sai Chivukula  
+
 **"Participatory Data Governance in Practice" (CHI 2026 Workshop)**   
 Jovan Powar, Emma Kallina, Anna Ida Hudig, Jatinder Singh, **Lin Kyi**, Heleen Janssen, Genevieve Smith, and Renwen Zhang   
 
