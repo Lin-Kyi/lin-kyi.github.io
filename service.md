@@ -15,10 +15,11 @@ Jovan Powar, Emma Kallina, Anna Ida Hudig, Jatinder Singh, **Lin Kyi**, Heleen J
 
 ## Reviewing
 **Program Committee**
-* USEC 2026
+* USEC 2026, 2027  
 * FAccT 2024, 2025
 
 **External Reviewer**
+* WWW 2027
 * ICML 2026 Ethics Reviewer
 * DIS 2026
 * CSCW Poster Track 2025  
